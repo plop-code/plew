@@ -1,0 +1,37 @@
+﻿ID,place,manner,force,pair,position,audio,desc::symbol,desc::example,desc::translation,video_url
+1,05 - postalveolar,5 - fricative,lenis,2,2 - medial,22/001a.wav,zh,zhi:la,cotton,
+2,05 - postalveolar,6 - affricate,lenis,2,2 - medial,22/002a.wav,dx,dxi:la,comal,
+3,04 - alveolar,5 - fricative,lenis,3,2 - medial,22/003a.wav,z,wala:za,portion,
+4,04 - alveolar,6 - affricate,lenis,3,2 - medial,22/004a.wav,dz,wala:dza,aboriginal,
+5,04 - alveolar,2 - nasal,lenis,1,2 - medial,22/005a.wav,n,ru:na7,I do,22/05_N03.mp4
+6,04 - alveolar,2 - nasal,fortis,1,2 - medial,22/006a.wav,nn,runna7,I give,22/06_N04.mp4
+7,04 - alveolar,2 - nasal,lenis,2,2 - medial,22/007a.wav,n,txi:nu,fifteen,22/07_N05.mp4
+8,04 - alveolar,2 - nasal,fortis,2,2 - medial,22/008a.wav,nn,txinnu,twelve,22/08_N06.mp4
+9,04 - alveolar,2 - nasal,lenis,3,1 - initial,22/009a.wav,n,na7a,is placed,22/09_N01.mp4
+10,04 - alveolar,2 - nasal,fortis,3,1 - initial,22/010a.wav,nn,nna7a,now,22/10_N02.mp4
+11,04 - alveolar,4 - tap,lenis,7,1 - initial,22/011a.wav,r,ratxi7,scoop up water,
+12,04 - alveolar,8 - lateral,lenis,7,1 - initial,22/012a.wav,l,latxi7,valley,
+13,04 - alveolar,8 - lateral,lenis,2,2 - medial,22/013a.wav,l,ra:la,ripe,22/13_L07.mp4
+14,04 - alveolar,8 - lateral,fortis,2,2 - medial,22/014a.wav,ll,ralla,gets dark,22/14_L08.mp4
+15,04 - alveolar,8 - lateral,lenis,3,1 - initial,22/015a.wav,l,latxi7,valley,22/15_L01.mp4
+16,04 - alveolar,8 - lateral,fortis,3,1 - initial,22/016a.wav,ll,llatxi,beautiful,22/16_L02.mp4
+17,04 - alveolar,8 - lateral,lenis,4,1 - initial,22/017a.wav,l,lë:nu,her name is,22/17_L03.mp4
+18,04 - alveolar,8 - lateral,fortis,4,1 - initial,22/018a.wav,ll,llë:nu,she,22/18_L04.mp4
+19,04 - alveolar,8 - lateral,lenis,5,1 - initial,22/019a.wav,l,rlë:bi,permit,22/19_L05.mp4
+20,04 - alveolar,8 - lateral,fortis,5,1 - initial,22/020a.wav,ll,rllë:bi,boil,22/20_L06.mp4
+21,04 - alveolar,8 - lateral,lenis,6,1 - initial,22/021a.wav,l,gla7a,broke,
+22,04 - alveolar,8 - lateral,fortis,6,1 - initial,22/022a.wav,ll,glla7a,broke (it),
+23,11 - glottal,1 - plosive,fortis,1,3 - final,22/023a.wav,Ø,gya,metal,
+24,11 - glottal,1 - plosive,fortis,1,3 - final,22/024a.wav,7,gya7,dried grass,
+25,11 - glottal,1 - plosive,fortis,2,3 - final,22/025a.wav,Ø,bïku,stink bug,
+26,11 - glottal,1 - plosive,fortis,2,3 - final,22/026a.wav,7,bïku7,dog,
+27,11 - glottal,1 - plosive,fortis,3,3 - final,22/027a.wav,Ø,ya:ga,tree,
+28,11 - glottal,1 - plosive,fortis,3,3 - final,22/028a.wav,7,yagá7,jonote tree,
+29,11 - glottal,1 - plosive,fortis,4,2 - medial,22/029a.wav,Ø,bï:dxi,chilli seed,
+30,11 - glottal,1 - plosive,fortis,4,2 - medial,22/030a.wav,7,bï7dxí7,southern wind,
+31,11 - glottal,1 - plosive,fortis,5,2 - medial,22/031a.wav,Ø,txinnu,twelve,
+32,11 - glottal,1 - plosive,fortis,5,2 - medial,22/032a.wav,7,txi7nnu,thirteen,
+33,04 - alveolar,6 - affricate,lenis,4,2 - medial,22/033a.wav,dx,bï:dxi,chilli seed,
+34,04 - alveolar,6 - affricate,fortis,4,2 - medial,22/034a.wav,tx,bïtxi,foam,
+35,04 - alveolar,5 - fricative,lenis,1,1 - initial,22/035a.wav,z,za7a,corn,
+36,04 - alveolar,5 - fricative,fortis,1,1 - initial,22/036a.wav,s,sa7a,will be completed,

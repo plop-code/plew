@@ -1,11 +1,11 @@
 ﻿Speaker,desc::Feedback,Type,Value,Form,Modality,desc::Visual features,video_url,recorded
-A1,laughter,affiliation,negative,generic,audible,,29/A1_laughter.mp4,yes
+A1,laughter,affiliation,negative,generic,audible,,A1_laughter.mp4,yes
 A1,laughter,affiliation,positive,generic,audible,,,no
 A1,smile,affiliation,positive,N/A,visible,smile,,no
 A1,laughter,affiliation,positive,generic,audible,,,no
 A1,ouais,affiliation,positive,generic,audible,,,no
 A1,laughter,affiliation,positive,generic,audible,,,no
-A1,ah nan+smile+gesture,alignment,negative,mix,bimodal,gesture,29/A1_bimodal.mp4,yes
+A1,ah nan+smile+gesture,alignment,negative,mix,bimodal,gesture,A1_bimodal.mp4,yes
 A1,nod,alignment,positive,N/A,visible,nod,,no
 A1,nan,alignment,negative,generic,audible,,,no
 A1,laughter,affiliation,positive,generic,audible,,,no
@@ -92,10 +92,10 @@ B2,head move+eyes,affiliation,positive,generic,bimodal,head move+eyes,,no
 B2,laughter,alignment,positive,generic,audible,,,no
 B2,ouais,alignment,positive,generic,audible,,,no
 B2,mm+nod,affiliation,positive,generic,bimodal,nod,,no
-B2,nod,alignment,positive,N/A,visible,nod,29/B2_nod.mp4,yes
+B2,nod,alignment,positive,N/A,visible,nod,B2_nod.mov,yes
 B2,nod,alignment,positive,N/A,visible,nod,,no
 B2,laughter,alignment,positive,generic,audible,,,no
-B2,ah oui je vois très bien c'est celles avec les orteilles xx.,alignment,positive,mix,bimodal,nod,29/B2_bimodal.mp4,yes
+B2,ah oui je vois très bien c'est celles avec les orteilles xx.,alignment,positive,mix,bimodal,nod,B2_bimodal.mov,yes
 B2,ouais,alignment,positive,generic,audible,,,no
 B2,ouais,alignment,positive,generic,audible,,,no
 B2,raised eyebrows,affiliation,negative,N/A,visible,raised eyebrows,,no

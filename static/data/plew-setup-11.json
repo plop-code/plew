@@ -1,0 +1,71 @@
+{
+  "version": 2,
+  "kind": "plew-visualization-config",
+  "exportedAt": "2026-10-05T21:15:52.915Z",
+  "dataset": {
+    "id": "evidential_sources_final.csv",
+    "label": "evidential_sources_final.csv"
+  },
+  "dimensions": {
+    "order": [
+      "section_name",
+      "source"
+    ],
+    "enabled": [
+      "section_name",
+      "source"
+    ],
+    "encodings": {
+      "section_name": "grid-x",
+      "source": "color"
+    }
+  },
+  "valueFilters": {},
+  "styling": {
+    "customColors": {
+      "dataverse": "#8d8b8d",
+      "github;figshare": "#71a3ea",
+      "website": "#1c1abc"
+    },
+    "customShapes": {}
+  },
+  "display": {
+    "showItemCounts": true,
+    "showDimensionNames": true,
+    "clusterPoints": false,
+    "uniformGridSizes": true,
+    "outerPanelRowHeight": "100",
+    "unifyInnerPanel": true,
+    "innerPanelRowHeight": "70",
+    "labelSize": "0.65",
+    "labelColor": "#888888",
+    "countSize": "0.6",
+    "countColor": "#555555"
+  },
+  "dummySettings": {
+    "visible": false,
+    "color": "#555555",
+    "opacity": 0,
+    "shape": "diamond"
+  },
+  "columns": {
+    "visibility": {
+      "desc::paper_id": true,
+      "desc::title": true,
+      "desc::authors": true,
+      "desc::keywords": true,
+      "dim::section_name": true,
+      "dim::source": true,
+      "desc::link": true
+    },
+    "recordOrder": [
+      "dim::section_name",
+      "dim::source",
+      "desc::authors",
+      "desc::keywords",
+      "desc::link",
+      "desc::paper_id",
+      "desc::title"
+    ]
+  }
+}

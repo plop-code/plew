@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "kind": "plew-visualization-config",
+  "exportedAt": "2026-09-22T07:20:09.192Z",
+  "dataset": {
+    "id": "25.csv",
+    "label": "25.csv"
+  },
+  "dimensions": {
+    "order": [
+      "frontness",
+      "height",
+      "roundedness"
+    ],
+    "enabled": [
+      "height",
+      "frontness",
+      "roundedness"
+    ],
+    "encodings": {
+      "frontness": "grid-x",
+      "height": "grid-y",
+      "roundedness": "color"
+    }
+  },
+  "valueFilters": {},
+  "styling": {
+    "customColors": {},
+    "customShapes": {}
+  },
+  "display": {
+    "showItemCounts": false,
+    "showDimensionNames": false,
+    "clusterPoints": true,
+    "uniformGridSizes": false,
+    "outerPanelRowHeight": "200",
+    "unifyInnerPanel": false,
+    "innerPanelRowHeight": "56",
+    "labelSize": "0.7",
+    "labelColor": "#888888",
+    "countSize": "0.6",
+    "countColor": "#555555"
+  },
+  "dummySettings": {
+    "visible": false,
+    "color": "#555555",
+    "opacity": 0,
+    "shape": "diamond"
+  },
+  "columns": {
+    "visibility": {
+      "ID": true,
+      "desc::symbol": true,
+      "height": true,
+      "frontness": true,
+      "roundedness": true,
+      "video_url": true
+    },
+    "recordOrder": [
+      "desc::symbol",
+      "frontness",
+      "height",
+      "ID",
+      "roundedness",
+      "video_url"
+    ]
+  }
+}

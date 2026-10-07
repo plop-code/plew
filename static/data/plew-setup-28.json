@@ -1,0 +1,82 @@
+{
+  "version": 2,
+  "kind": "plew-visualization-config",
+  "exportedAt": "2026-09-24T02:59:54.541Z",
+  "dataset": {
+    "id": "28.csv",
+    "label": "28.csv"
+  },
+  "dimensions": {
+    "order": [
+      "group",
+      "feature",
+      "outcome",
+      "condition",
+      "participant",
+      "item",
+      "involvement_z",
+      "gender"
+    ],
+    "enabled": [
+      "condition",
+      "feature",
+      "outcome",
+      "group"
+    ],
+    "encodings": {
+      "group": "grid-x",
+      "feature": "grid-y",
+      "outcome": "color",
+      "condition": "panel-x"
+    }
+  },
+  "valueFilters": {},
+  "styling": {
+    "customColors": {
+      "0": "#212121",
+      "1": "#d3cfcf"
+    },
+    "customShapes": {}
+  },
+  "display": {
+    "showItemCounts": false,
+    "showDimensionNames": false,
+    "clusterPoints": true,
+    "uniformGridSizes": true,
+    "outerPanelRowHeight": "194",
+    "unifyInnerPanel": false,
+    "innerPanelRowHeight": "62",
+    "labelSize": "0.7",
+    "labelColor": "#888888",
+    "countSize": "0.6",
+    "countColor": "#555555"
+  },
+  "dummySettings": {
+    "visible": false,
+    "color": "#555555",
+    "opacity": 0,
+    "shape": "diamond"
+  },
+  "columns": {
+    "visibility": {
+      "participant": true,
+      "gender": true,
+      "group": true,
+      "condition": true,
+      "feature": true,
+      "item": true,
+      "outcome": true,
+      "involvement_z": true
+    },
+    "recordOrder": [
+      "condition",
+      "feature",
+      "gender",
+      "group",
+      "involvement_z",
+      "item",
+      "outcome",
+      "participant"
+    ]
+  }
+}

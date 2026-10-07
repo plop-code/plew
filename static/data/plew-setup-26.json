@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "kind": "plew-visualization-config",
+  "exportedAt": "2026-09-24T03:47:50.860Z",
+  "dataset": {
+    "id": "26.csv",
+    "label": "26.csv"
+  },
+  "dimensions": {
+    "order": [
+      "speaker",
+      "discourse_function",
+      "ip_label",
+      "duration"
+    ],
+    "enabled": [
+      "discourse_function",
+      "speaker",
+      "duration"
+    ],
+    "encodings": {
+      "speaker": "grid-x",
+      "discourse_function": "grid-y",
+      "ip_label": "",
+      "duration": "color"
+    }
+  },
+  "valueFilters": {
+    "speaker": [
+      "hgs",
+      "hyj",
+      "suk"
+    ],
+    "discourse_function": [
+      "acknowledge",
+      "backchannel",
+      "opinion",
+      "statement"
+    ]
+  },
+  "styling": {
+    "customColors": {},
+    "customShapes": {}
+  },
+  "display": {
+    "showItemCounts": false,
+    "showDimensionNames": true,
+    "clusterPoints": true,
+    "uniformGridSizes": false,
+    "outerPanelRowHeight": "200",
+    "unifyInnerPanel": false,
+    "innerPanelRowHeight": "56",
+    "labelSize": "0.7",
+    "labelColor": "#888888",
+    "countSize": "0.6",
+    "countColor": "#555555"
+  },
+  "dummySettings": {
+    "visible": false,
+    "color": "#555555",
+    "opacity": 0,
+    "shape": "diamond"
+  },
+  "columns": {
+    "visibility": {
+      "desc::ip_xmin": true,
+      "desc::ip_xmax": true,
+      "desc::ip_duration": true,
+      "duration": true,
+      "ip_label": true,
+      "speaker": true,
+      "discourse_function": true,
+      "desc::HGS1_transcrkr": true,
+      "desc::HYJ1_transcrkr": true,
+      "desc::SUK1_transcrkr": true
+    },
+    "recordOrder": [
+      "desc::HGS1_transcrkr",
+      "desc::HYJ1_transcrkr",
+      "desc::ip_duration",
+      "desc::ip_xmax",
+      "desc::ip_xmin",
+      "desc::SUK1_transcrkr",
+      "discourse_function",
+      "duration",
+      "ip_label",
+      "speaker"
+    ]
+  }
+}

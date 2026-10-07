@@ -1,0 +1,142 @@
+{
+  "version": 2,
+  "kind": "plew-visualization-config",
+  "exportedAt": "2026-10-06T16:23:07.913Z",
+  "dataset": {
+    "id": "24.csv",
+    "label": "24.csv"
+  },
+  "dimensions": {
+    "order": [
+      "structure",
+      "V1 quality",
+      "V2 quality",
+      "V3 quality",
+      "speaker",
+      "V2 bin",
+      "interaction",
+      "C2 quantity",
+      "V2 etymological",
+      "V2 real",
+      "V1 quantity",
+      "diphthong",
+      "sonorant",
+      "V3 quantity"
+    ],
+    "enabled": [
+      "V2 bin",
+      "speaker",
+      "structure",
+      "V2 quality"
+    ],
+    "encodings": {
+      "structure": "grid-x",
+      "V1 quality": "",
+      "V2 quality": "panel-y",
+      "V3 quality": "",
+      "speaker": "color",
+      "V2 bin": "panel-x",
+      "V2 etymological": "",
+      "diphthong": "",
+      "interaction": "",
+      "sonorant": "",
+      "V1 quantity": "",
+      "V2 real": ""
+    }
+  },
+  "valueFilters": {
+    "structure": [
+      "VC:V:",
+      "VCV",
+      "VC:V"
+    ],
+    "speaker": [
+      "EI",
+      "AG",
+      "AL",
+      "LM",
+      "ST"
+    ],
+    "interaction": [
+      "*V2 long"
+    ],
+    "V2 quality": [
+      "A",
+      "a",
+      "e",
+      "i",
+      "o"
+    ]
+  },
+  "styling": {
+    "customColors": {
+      "2-S": "#c67839",
+      "1-XS": "#e4391b",
+      "EI": "#18a2dc",
+      "AG": "#1c29e9",
+      "LM": "#f0c905",
+      "ST": "#ff4d4d",
+      "AL": "#f4680b"
+    },
+    "customShapes": {}
+  },
+  "display": {
+    "showItemCounts": false,
+    "showDimensionNames": false,
+    "clusterPoints": true,
+    "uniformGridSizes": true,
+    "outerPanelRowHeight": "447",
+    "unifyInnerPanel": true,
+    "innerPanelRowHeight": "80",
+    "labelSize": "0.7",
+    "labelColor": "#888888",
+    "countSize": "0.6",
+    "countColor": "#555555"
+  },
+  "dummySettings": {
+    "visible": false,
+    "color": "#555555",
+    "opacity": 0,
+    "shape": "diamond"
+  },
+  "columns": {
+    "visibility": {
+      "order1": true,
+      "desc::word": true,
+      "structure": true,
+      "speaker": true,
+      "V2 quality": true,
+      "desc::V2 duration": true,
+      "V2 bin": true,
+      "V2 etymological": true,
+      "V2 real": true,
+      "interaction": true,
+      "V1 quality": true,
+      "V1 quantity": true,
+      "diphthong": true,
+      "sonorant": true,
+      "C2 quantity": true,
+      "V3 quality": true,
+      "V3 quantity": true
+    },
+    "recordOrder": [
+      "desc::V2 duration",
+      "desc::word",
+      "C2 quantity",
+      "diphthong",
+      "interaction",
+      "order1",
+      "sonorant",
+      "speaker",
+      "structure",
+      "V1 quality",
+      "V1 quantity",
+      "V2 bin",
+      "V2 etymological",
+      "V2 quality",
+      "V2 real",
+      "V3 quality",
+      "V3 quantity"
+    ]
+  }
+}

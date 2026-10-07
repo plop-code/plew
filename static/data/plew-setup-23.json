@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "kind": "plew-visualization-config",
+  "exportedAt": "2026-09-24T02:24:56.709Z",
+  "dataset": {
+    "id": "23.csv",
+    "label": "23.csv"
+  },
+  "dimensions": {
+    "order": [
+      "Function",
+      "WH-Pronoun",
+      "Region_birth",
+      "WH_SynFun",
+      "Participant_role",
+      "Information_seeking",
+      "Int_Type",
+      "Verb"
+    ],
+    "enabled": [
+      "WH-Pronoun",
+      "Function",
+      "Int_Type"
+    ],
+    "encodings": {
+      "Function": "grid-x",
+      "WH-Pronoun": "grid-y",
+      "Int_Type": "color"
+    }
+  },
+  "valueFilters": {
+    "Function": [
+      "ELB",
+      "EXA",
+      "REQ",
+      "RHE",
+      "SRC",
+      "SRH"
+    ],
+    "Int_Type": [
+      "cleft",
+      "insitu",
+      "bare"
+    ]
+  },
+  "styling": {
+    "customColors": {},
+    "customShapes": {}
+  },
+  "display": {
+    "showItemCounts": false,
+    "showDimensionNames": true,
+    "clusterPoints": true,
+    "uniformGridSizes": false,
+    "outerPanelRowHeight": "200",
+    "unifyInnerPanel": false,
+    "innerPanelRowHeight": "56",
+    "labelSize": "0.7",
+    "labelColor": "#888888",
+    "countSize": "0.6",
+    "countColor": "#555555"
+  },
+  "dummySettings": {
+    "visible": false,
+    "color": "#555555",
+    "opacity": 0,
+    "shape": "diamond"
+  },
+  "columns": {
+    "visibility": {
+      "ID": true,
+      "Int_Type": true,
+      "WH-Pronoun": true,
+      "Verb": true,
+      "WH_SynFun": true,
+      "Region_birth": true,
+      "Participant_role": true,
+      "Information_seeking": true,
+      "Function": true
+    },
+    "recordOrder": [
+      "Function",
+      "ID",
+      "Information_seeking",
+      "Int_Type",
+      "Participant_role",
+      "Region_birth",
+      "Verb",
+      "WH_SynFun",
+      "WH-Pronoun"
+    ]
+  }
+}

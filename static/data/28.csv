@@ -1,0 +1,2507 @@
+participant,gender,group,condition,feature,item,outcome,involvement_z
+am1,male,american english,before,rhoticity,vampire,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,warm,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,birthday,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,cheer,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,finger,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,wears,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,river,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,driver,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,earn,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,working,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,hard,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,person,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,turns,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,information,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,rewarded,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,others,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,weird,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,shirt,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,girlfriends,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,research,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,Antarctica,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,flirting,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,bar,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,card,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,leather jacket,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,opportunity,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,learn,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,share,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,winter,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,formal,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,perfect,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,chocolate-covered,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,uniform,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,first day,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,polar bear,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,liar,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,heart attack,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,sleep over,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,nurse,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,weird,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,car,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,murdered,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,murder,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,girlfriends,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,perfect,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,understand,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,daughter,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,never ever,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,social services,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,hurt,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,learn,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,superpowers,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,worse,1,-0.2577653329739516
+am1,male,american english,before,rhoticity,circumstances,0,-0.2577653329739516
+am1,male,american english,before,rhoticity,sister,0,-0.2577653329739516
+am2,male,american english,before,rhoticity,vampire,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,warm,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,birthday,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,cheer,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,finger,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,wears,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,river,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,driver,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,earn,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,working,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,hard,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,person,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,turns,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,information,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,rewarded,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,others,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,weird,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,shirt,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,girlfriends,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,research,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,Antarctica,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,flirting,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,bar,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,card,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,leather jacket,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,opportunity,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,learn,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,share,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,winter,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,formal,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,perfect,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,chocolate-covered,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,uniform,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,first day,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,polar bear,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,liar,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,heart attack,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,sleep over,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,nurse,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,weird,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,car,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,murdered,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,murder,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,girlfriends,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,perfect,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,understand,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,daughter,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,never ever,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,social services,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,hurt,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,learn,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,superpowers,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,worse,0,-1.7547755865839705
+am2,male,american english,before,rhoticity,circumstances,1,-1.7547755865839705
+am2,male,american english,before,rhoticity,sister,1,-1.7547755865839705
+am3,male,american english,before,rhoticity,vampire,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,warm,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,birthday,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,cheer,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,finger,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,wears,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,river,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,driver,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,earn,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,working,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,hard,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,person,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,turns,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,information,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,rewarded,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,others,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,weird,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,shirt,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,girlfriends,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,research,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,Antarctica,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,flirting,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,bar,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,card,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,leather jacket,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,opportunity,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,learn,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,share,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,winter,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,formal,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,perfect,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,chocolate-covered,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,uniform,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,first day,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,polar bear,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,liar,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,heart attack,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,sleep over,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,nurse,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,weird,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,car,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,murdered,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,murder,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,girlfriends,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,perfect,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,understand,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,daughter,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,never ever,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,social services,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,hurt,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,learn,0,-0.2577653329739516
+am3,male,american english,before,rhoticity,superpowers,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,worse,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,circumstances,1,-0.2577653329739516
+am3,male,american english,before,rhoticity,sister,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,vampire,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,warm,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,birthday,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,cheer,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,finger,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,wears,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,river,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,driver,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,earn,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,working,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,hard,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,person,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,turns,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,information,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,rewarded,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,others,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,weird,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,shirt,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,girlfriends,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,research,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,Antarctica,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,flirting,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,bar,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,card,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,leather jacket,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,opportunity,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,learn,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,share,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,winter,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,formal,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,perfect,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,chocolate-covered,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,uniform,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,first day,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,polar bear,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,liar,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,heart attack,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,sleep over,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,nurse,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,weird,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,car,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,murdered,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,murder,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,girlfriends,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,perfect,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,understand,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,daughter,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,never ever,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,social services,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,hurt,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,learn,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,superpowers,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,worse,1,-0.2577653329739516
+aw1,female,american english,before,rhoticity,circumstances,0,-0.2577653329739516
+aw1,female,american english,before,rhoticity,sister,0,-0.2577653329739516
+aw2,female,american english,before,rhoticity,vampire,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,warm,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,birthday,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,cheer,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,finger,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,wears,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,river,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,driver,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,earn,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,working,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,hard,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,person,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,turns,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,information,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,rewarded,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,others,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,weird,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,shirt,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,girlfriends,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,research,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,Antarctica,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,flirting,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,bar,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,card,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,leather jacket,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,opportunity,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,learn,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,share,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,winter,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,formal,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,perfect,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,chocolate-covered,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,uniform,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,first day,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,polar bear,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,liar,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,heart attack,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,sleep over,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,nurse,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,weird,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,car,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,murdered,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,murder,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,girlfriends,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,perfect,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,understand,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,daughter,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,never ever,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,social services,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,hurt,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,learn,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,superpowers,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,worse,0,-1.0062704597789611
+aw2,female,american english,before,rhoticity,circumstances,1,-1.0062704597789611
+aw2,female,american english,before,rhoticity,sister,1,-1.0062704597789611
+aw3,female,american english,before,rhoticity,vampire,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,warm,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,birthday,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,cheer,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,finger,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,wears,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,river,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,driver,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,earn,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,working,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,hard,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,person,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,turns,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,information,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,rewarded,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,others,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,weird,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,shirt,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,girlfriends,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,research,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,Antarctica,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,flirting,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,bar,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,card,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,leather jacket,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,opportunity,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,learn,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,share,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,winter,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,formal,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,perfect,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,chocolate-covered,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,uniform,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,first day,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,polar bear,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,liar,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,heart attack,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,sleep over,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,nurse,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,weird,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,car,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,murdered,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,murder,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,girlfriends,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,perfect,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,understand,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,daughter,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,never ever,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,social services,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,hurt,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,learn,0,0.24123808489605467
+aw3,female,american english,before,rhoticity,superpowers,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,worse,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,circumstances,1,0.24123808489605467
+aw3,female,american english,before,rhoticity,sister,1,0.24123808489605467
+aw4,female,american english,before,rhoticity,vampire,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,warm,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,birthday,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,cheer,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,finger,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,wears,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,river,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,driver,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,earn,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,working,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,hard,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,person,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,turns,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,information,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,rewarded,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,others,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,weird,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,shirt,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,girlfriends,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,research,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,Antarctica,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,flirting,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,bar,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,card,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,leather jacket,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,opportunity,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,learn,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,share,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,winter,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,formal,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,perfect,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,chocolate-covered,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,uniform,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,first day,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,polar bear,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,liar,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,heart attack,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,sleep over,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,nurse,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,weird,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,car,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,murdered,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,murder,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,girlfriends,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,perfect,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,understand,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,daughter,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,never ever,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,social services,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,hurt,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,learn,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,superpowers,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,worse,1,1.4887466295710703
+aw4,female,american english,before,rhoticity,circumstances,0,1.4887466295710703
+aw4,female,american english,before,rhoticity,sister,1,1.4887466295710703
+aw5,female,american english,before,rhoticity,vampire,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,warm,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,birthday,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,cheer,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,finger,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,wears,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,river,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,earn,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,working,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,hard,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,person,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,turns,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,information,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,rewarded,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,others,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,weird,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,shirt,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,girlfriends,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,research,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,Antarctica,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,flirting,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,bar,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,card,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,leather jacket,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,opportunity,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,learn,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,share,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,winter,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,formal,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,perfect,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,chocolate-covered,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,uniform,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,first day,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,polar bear,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,liar,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,heart attack,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,sleep over,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,nurse,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,weird,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,car,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,murdered,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,murder,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,girlfriends,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,perfect,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,understand,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,daughter,0,-0.2577653329739516
+aw5,female,american english,before,rhoticity,never ever,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,social services,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,hurt,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,learn,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,superpowers,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,worse,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,circumstances,1,-0.2577653329739516
+aw5,female,american english,before,rhoticity,sister,1,-0.2577653329739516
+aw6,female,american english,before,rhoticity,vampire,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,warm,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,birthday,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,cheer,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,finger,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,wears,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,river,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,driver,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,earn,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,working,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,hard,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,person,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,turns,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,information,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,rewarded,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,others,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,weird,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,shirt,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,girlfriends,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,research,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,Antarctica,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,flirting,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,bar,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,card,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,leather jacket,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,opportunity,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,learn,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,share,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,winter,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,formal,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,perfect,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,chocolate-covered,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,uniform,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,first day,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,polar bear,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,liar,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,heart attack,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,sleep over,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,nurse,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,weird,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,car,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,murdered,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,murder,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,girlfriends,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,perfect,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,understand,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,daughter,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,never ever,0,0.7402415027660609
+aw6,female,american english,before,rhoticity,social services,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,hurt,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,learn,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,superpowers,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,worse,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,circumstances,1,0.7402415027660609
+aw6,female,american english,before,rhoticity,sister,0,0.7402415027660609
+bm1,male,british english,before,rhoticity,vampire,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,warm,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,birthday,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,cheer,1,-0.7567687508439579
+bm1,male,british english,before,rhoticity,finger,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,wears,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,river,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,driver,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,earn,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,working,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,hard,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,person,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,turns,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,information,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,rewarded,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,others,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,weird,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,shirt,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,girlfriends,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,research,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,Antarctica,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,flirting,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,bar,1,-0.7567687508439579
+bm1,male,british english,before,rhoticity,card,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,leather jacket,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,opportunity,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,learn,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,share,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,winter,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,formal,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,perfect,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,chocolate-covered,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,uniform,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,first day,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,polar bear,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,liar,1,-0.7567687508439579
+bm1,male,british english,before,rhoticity,heart attack,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,sleep over,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,nurse,1,-0.7567687508439579
+bm1,male,british english,before,rhoticity,weird,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,car,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,murdered,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,murder,1,-0.7567687508439579
+bm1,male,british english,before,rhoticity,girlfriends,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,perfect,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,understand,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,daughter,1,-0.7567687508439579
+bm1,male,british english,before,rhoticity,never ever,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,social services,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,hurt,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,learn,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,superpowers,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,worse,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,circumstances,0,-0.7567687508439579
+bm1,male,british english,before,rhoticity,sister,0,-0.7567687508439579
+bm2,male,british english,before,rhoticity,vampire,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,warm,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,birthday,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,cheer,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,finger,0,1.4887466295710703
+bm2,male,british english,before,rhoticity,wears,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,river,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,driver,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,earn,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,working,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,hard,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,person,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,turns,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,information,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,rewarded,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,others,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,weird,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,shirt,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,girlfriends,0,1.4887466295710703
+bm2,male,british english,before,rhoticity,research,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,Antarctica,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,flirting,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,bar,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,card,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,leather jacket,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,opportunity,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,learn,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,share,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,winter,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,formal,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,perfect,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,chocolate-covered,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,uniform,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,first day,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,polar bear,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,liar,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,heart attack,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,sleep over,0,1.4887466295710703
+bm2,male,british english,before,rhoticity,nurse,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,weird,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,car,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,murdered,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,murder,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,girlfriends,0,1.4887466295710703
+bm2,male,british english,before,rhoticity,perfect,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,understand,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,daughter,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,never ever,0,1.4887466295710703
+bm2,male,british english,before,rhoticity,social services,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,hurt,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,learn,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,superpowers,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,worse,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,circumstances,1,1.4887466295710703
+bm2,male,british english,before,rhoticity,sister,1,1.4887466295710703
+bm3,male,british english,before,rhoticity,vampire,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,warm,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,birthday,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,cheer,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,finger,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,wears,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,river,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,driver,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,earn,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,working,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,hard,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,person,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,turns,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,information,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,rewarded,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,others,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,weird,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,shirt,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,girlfriends,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,research,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,Antarctica,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,flirting,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,bar,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,card,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,leather jacket,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,opportunity,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,learn,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,share,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,winter,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,formal,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,perfect,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,chocolate-covered,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,uniform,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,first day,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,polar bear,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,liar,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,heart attack,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,sleep over,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,nurse,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,weird,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,car,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,murdered,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,murder,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,girlfriends,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,perfect,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,understand,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,daughter,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,never ever,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,social services,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,hurt,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,learn,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,superpowers,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,worse,0,-1.2557721687139642
+bm3,male,british english,before,rhoticity,circumstances,1,-1.2557721687139642
+bm3,male,british english,before,rhoticity,sister,1,-1.2557721687139642
+bw1,female,british english,before,rhoticity,vampire,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,warm,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,birthday,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,cheer,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,finger,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,wears,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,river,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,driver,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,earn,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,working,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,hard,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,person,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,turns,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,information,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,rewarded,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,others,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,weird,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,shirt,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,girlfriends,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,research,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,Antarctica,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,flirting,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,bar,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,card,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,leather jacket,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,opportunity,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,learn,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,share,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,winter,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,formal,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,perfect,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,chocolate-covered,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,uniform,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,first day,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,polar bear,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,liar,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,heart attack,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,sleep over,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,nurse,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,weird,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,car,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,murdered,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,murder,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,girlfriends,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,perfect,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,understand,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,daughter,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,never ever,0,-0.5072670419089548
+bw1,female,british english,before,rhoticity,social services,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,hurt,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,learn,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,superpowers,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,worse,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,circumstances,1,-0.5072670419089548
+bw1,female,british english,before,rhoticity,sister,1,-0.5072670419089548
+bw2,female,british english,before,rhoticity,vampire,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,warm,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,birthday,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,cheer,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,finger,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,wears,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,river,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,driver,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,earn,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,working,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,hard,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,person,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,turns,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,information,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,rewarded,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,others,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,weird,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,shirt,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,girlfriends,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,research,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,Antarctica,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,flirting,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,bar,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,card,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,leather jacket,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,opportunity,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,learn,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,share,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,winter,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,formal,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,perfect,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,chocolate-covered,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,uniform,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,first day,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,polar bear,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,liar,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,heart attack,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,sleep over,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,nurse,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,weird,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,car,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,murdered,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,murder,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,girlfriends,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,perfect,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,understand,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,daughter,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,never ever,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,social services,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,hurt,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,learn,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,superpowers,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,worse,1,1.2392449206360672
+bw2,female,british english,before,rhoticity,circumstances,0,1.2392449206360672
+bw2,female,british english,before,rhoticity,sister,1,1.2392449206360672
+bw3,female,british english,before,rhoticity,vampire,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,warm,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,birthday,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,cheer,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,finger,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,river,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,driver,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,earn,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,working,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,hard,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,person,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,turns,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,information,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,rewarded,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,others,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,weird,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,shirt,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,girlfriends,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,research,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,Antarctica,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,flirting,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,bar,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,card,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,leather jacket,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,opportunity,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,learn,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,share,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,winter,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,formal,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,perfect,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,chocolate-covered,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,uniform,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,first day,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,polar bear,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,liar,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,heart attack,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,sleep over,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,nurse,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,weird,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,car,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,murdered,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,murder,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,girlfriends,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,perfect,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,understand,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,daughter,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,never ever,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,social services,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,hurt,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,learn,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,superpowers,0,1.9877500474410768
+bw3,female,british english,before,rhoticity,worse,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,circumstances,1,1.9877500474410768
+bw3,female,british english,before,rhoticity,sister,1,1.9877500474410768
+bw4,female,british english,before,rhoticity,vampire,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,warm,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,birthday,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,cheer,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,finger,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,wears,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,river,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,driver,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,earn,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,working,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,hard,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,person,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,turns,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,information,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,rewarded,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,others,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,weird,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,shirt,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,girlfriends,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,research,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,Antarctica,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,flirting,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,bar,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,card,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,leather jacket,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,opportunity,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,learn,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,share,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,winter,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,formal,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,perfect,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,chocolate-covered,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,uniform,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,first day,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,polar bear,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,liar,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,heart attack,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,sleep over,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,nurse,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,weird,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,car,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,murdered,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,murder,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,girlfriends,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,perfect,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,understand,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,daughter,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,never ever,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,social services,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,hurt,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,learn,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,superpowers,1,-0.008263624038948479
+bw4,female,british english,before,rhoticity,worse,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,circumstances,0,-0.008263624038948479
+bw4,female,british english,before,rhoticity,sister,1,-0.008263624038948479
+bw5,female,british english,before,rhoticity,vampire,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,warm,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,birthday,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,cheer,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,finger,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,wears,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,river,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,driver,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,earn,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,working,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,hard,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,person,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,turns,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,information,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,rewarded,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,others,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,weird,1,-0.7567687508439579
+bw5,female,british english,before,rhoticity,shirt,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,girlfriends,1,-0.7567687508439579
+bw5,female,british english,before,rhoticity,research,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,Antarctica,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,flirting,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,bar,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,card,1,-0.7567687508439579
+bw5,female,british english,before,rhoticity,leather jacket,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,opportunity,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,learn,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,share,1,-0.7567687508439579
+bw5,female,british english,before,rhoticity,winter,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,formal,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,perfect,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,chocolate-covered,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,uniform,1,-0.7567687508439579
+bw5,female,british english,before,rhoticity,first day,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,polar bear,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,liar,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,heart attack,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,sleep over,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,nurse,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,weird,1,-0.7567687508439579
+bw5,female,british english,before,rhoticity,car,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,murdered,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,murder,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,girlfriends,1,-0.7567687508439579
+bw5,female,british english,before,rhoticity,perfect,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,understand,1,-0.7567687508439579
+bw5,female,british english,before,rhoticity,daughter,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,never ever,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,social services,1,-0.7567687508439579
+bw5,female,british english,before,rhoticity,hurt,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,learn,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,superpowers,1,-0.7567687508439579
+bw5,female,british english,before,rhoticity,worse,0,-0.7567687508439579
+bw5,female,british english,before,rhoticity,circumstances,1,-0.7567687508439579
+bw5,female,british english,before,rhoticity,sister,0,-0.7567687508439579
+bw6,female,british english,before,rhoticity,vampire,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,warm,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,birthday,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,cheer,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,finger,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,wears,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,river,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,driver,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,earn,1,-0.2577653329739516
+bw6,female,british english,before,rhoticity,working,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,hard,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,person,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,turns,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,information,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,rewarded,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,others,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,weird,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,shirt,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,girlfriends,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,research,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,Antarctica,1,-0.2577653329739516
+bw6,female,british english,before,rhoticity,flirting,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,bar,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,card,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,leather jacket,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,opportunity,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,learn,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,share,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,winter,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,formal,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,perfect,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,chocolate-covered,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,uniform,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,first day,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,polar bear,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,liar,1,-0.2577653329739516
+bw6,female,british english,before,rhoticity,heart attack,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,sleep over,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,nurse,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,weird,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,car,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,murdered,1,-0.2577653329739516
+bw6,female,british english,before,rhoticity,murder,1,-0.2577653329739516
+bw6,female,british english,before,rhoticity,girlfriends,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,perfect,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,understand,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,daughter,1,-0.2577653329739516
+bw6,female,british english,before,rhoticity,never ever,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,social services,1,-0.2577653329739516
+bw6,female,british english,before,rhoticity,hurt,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,learn,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,superpowers,1,-0.2577653329739516
+bw6,female,british english,before,rhoticity,worse,0,-0.2577653329739516
+bw6,female,british english,before,rhoticity,circumstances,1,-0.2577653329739516
+bw6,female,british english,before,rhoticity,sister,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,vampire,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,warm,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,birthday,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,cheer,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,finger,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,wears,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,river,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,driver,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,earn,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,working,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,hard,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,person,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,turns,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,information,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,rewarded,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,others,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,weird,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,shirt,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,girlfriends,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,research,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,Antarctica,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,flirting,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,bar,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,card,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,leather jacket,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,opportunity,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,learn,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,share,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,winter,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,formal,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,perfect,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,chocolate-covered,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,uniform,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,first day,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,polar bear,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,liar,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,heart attack,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,sleep over,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,nurse,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,weird,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,car,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,murdered,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,murder,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,girlfriends,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,perfect,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,understand,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,daughter,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,never ever,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,social services,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,hurt,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,learn,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,superpowers,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,worse,1,-0.2577653329739516
+am1,male,american english,after,rhoticity,circumstances,0,-0.2577653329739516
+am1,male,american english,after,rhoticity,sister,0,-0.2577653329739516
+am2,male,american english,after,rhoticity,vampire,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,warm,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,birthday,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,cheer,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,finger,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,wears,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,river,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,driver,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,earn,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,working,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,hard,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,person,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,turns,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,information,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,rewarded,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,others,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,weird,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,shirt,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,girlfriends,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,research,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,Antarctica,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,flirting,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,bar,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,card,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,leather jacket,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,opportunity,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,learn,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,share,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,winter,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,formal,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,perfect,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,chocolate-covered,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,uniform,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,first day,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,polar bear,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,liar,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,heart attack,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,sleep over,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,nurse,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,weird,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,car,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,murdered,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,murder,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,girlfriends,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,perfect,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,understand,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,daughter,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,never ever,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,social services,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,hurt,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,learn,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,superpowers,0,-1.7547755865839705
+am2,male,american english,after,rhoticity,worse,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,circumstances,1,-1.7547755865839705
+am2,male,american english,after,rhoticity,sister,1,-1.7547755865839705
+am3,male,american english,after,rhoticity,vampire,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,warm,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,birthday,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,cheer,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,finger,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,wears,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,river,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,driver,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,earn,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,working,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,hard,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,person,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,turns,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,information,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,rewarded,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,others,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,weird,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,shirt,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,girlfriends,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,research,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,Antarctica,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,flirting,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,bar,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,card,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,leather jacket,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,opportunity,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,learn,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,share,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,winter,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,formal,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,perfect,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,chocolate-covered,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,uniform,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,first day,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,polar bear,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,liar,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,heart attack,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,sleep over,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,nurse,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,weird,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,car,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,murdered,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,murder,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,girlfriends,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,perfect,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,understand,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,daughter,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,never ever,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,social services,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,hurt,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,learn,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,superpowers,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,worse,0,-0.2577653329739516
+am3,male,american english,after,rhoticity,circumstances,1,-0.2577653329739516
+am3,male,american english,after,rhoticity,sister,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,vampire,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,warm,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,birthday,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,cheer,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,finger,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,wears,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,river,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,driver,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,earn,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,working,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,hard,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,person,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,turns,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,information,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,rewarded,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,others,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,weird,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,shirt,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,girlfriends,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,research,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,Antarctica,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,flirting,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,bar,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,card,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,leather jacket,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,opportunity,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,learn,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,share,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,winter,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,formal,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,perfect,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,chocolate-covered,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,uniform,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,first day,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,polar bear,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,liar,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,heart attack,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,sleep over,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,nurse,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,weird,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,car,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,murdered,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,murder,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,girlfriends,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,perfect,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,understand,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,daughter,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,never ever,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,social services,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,hurt,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,learn,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,superpowers,1,-0.2577653329739516
+aw1,female,american english,after,rhoticity,worse,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,circumstances,0,-0.2577653329739516
+aw1,female,american english,after,rhoticity,sister,0,-0.2577653329739516
+aw2,female,american english,after,rhoticity,vampire,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,warm,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,birthday,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,cheer,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,finger,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,wears,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,river,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,driver,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,earn,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,working,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,hard,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,person,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,turns,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,information,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,rewarded,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,others,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,weird,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,shirt,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,girlfriends,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,research,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,Antarctica,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,flirting,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,bar,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,card,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,leather jacket,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,opportunity,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,learn,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,share,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,winter,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,formal,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,perfect,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,chocolate-covered,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,uniform,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,first day,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,polar bear,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,liar,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,heart attack,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,sleep over,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,nurse,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,weird,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,car,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,murdered,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,murder,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,girlfriends,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,perfect,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,understand,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,daughter,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,never ever,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,social services,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,hurt,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,learn,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,superpowers,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,worse,0,-1.0062704597789611
+aw2,female,american english,after,rhoticity,circumstances,1,-1.0062704597789611
+aw2,female,american english,after,rhoticity,sister,1,-1.0062704597789611
+aw3,female,american english,after,rhoticity,vampire,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,warm,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,birthday,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,cheer,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,finger,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,wears,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,river,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,driver,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,earn,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,working,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,hard,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,person,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,turns,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,information,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,rewarded,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,others,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,weird,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,shirt,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,girlfriends,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,research,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,Antarctica,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,flirting,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,bar,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,card,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,leather jacket,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,opportunity,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,learn,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,share,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,winter,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,formal,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,perfect,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,chocolate-covered,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,uniform,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,first day,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,polar bear,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,liar,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,heart attack,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,sleep over,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,nurse,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,weird,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,car,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,murdered,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,murder,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,girlfriends,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,perfect,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,understand,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,daughter,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,never ever,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,social services,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,hurt,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,learn,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,superpowers,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,worse,1,0.24123808489605467
+aw3,female,american english,after,rhoticity,circumstances,0,0.24123808489605467
+aw3,female,american english,after,rhoticity,sister,1,0.24123808489605467
+aw4,female,american english,after,rhoticity,vampire,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,warm,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,birthday,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,cheer,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,finger,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,wears,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,river,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,driver,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,earn,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,working,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,hard,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,person,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,turns,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,information,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,rewarded,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,others,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,weird,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,shirt,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,girlfriends,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,research,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,Antarctica,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,flirting,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,bar,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,card,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,leather jacket,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,opportunity,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,learn,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,share,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,winter,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,formal,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,perfect,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,chocolate-covered,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,uniform,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,first day,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,polar bear,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,liar,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,heart attack,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,sleep over,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,nurse,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,weird,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,car,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,murdered,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,murder,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,girlfriends,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,perfect,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,understand,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,daughter,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,never ever,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,social services,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,hurt,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,learn,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,superpowers,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,worse,1,1.4887466295710703
+aw4,female,american english,after,rhoticity,circumstances,0,1.4887466295710703
+aw4,female,american english,after,rhoticity,sister,0,1.4887466295710703
+aw5,female,american english,after,rhoticity,vampire,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,warm,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,birthday,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,cheer,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,finger,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,wears,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,river,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,earn,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,working,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,hard,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,person,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,turns,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,information,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,rewarded,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,others,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,weird,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,shirt,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,girlfriends,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,research,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,Antarctica,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,flirting,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,bar,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,card,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,leather jacket,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,opportunity,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,learn,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,share,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,winter,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,formal,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,perfect,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,chocolate-covered,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,uniform,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,first day,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,polar bear,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,liar,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,heart attack,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,sleep over,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,nurse,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,weird,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,car,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,murdered,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,murder,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,girlfriends,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,perfect,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,understand,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,daughter,0,-0.2577653329739516
+aw5,female,american english,after,rhoticity,never ever,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,social services,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,hurt,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,learn,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,superpowers,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,worse,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,circumstances,1,-0.2577653329739516
+aw5,female,american english,after,rhoticity,sister,1,-0.2577653329739516
+aw6,female,american english,after,rhoticity,vampire,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,warm,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,birthday,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,cheer,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,finger,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,wears,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,river,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,driver,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,earn,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,working,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,hard,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,person,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,turns,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,information,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,rewarded,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,others,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,weird,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,shirt,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,girlfriends,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,research,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,Antarctica,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,flirting,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,bar,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,card,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,leather jacket,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,opportunity,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,learn,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,share,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,winter,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,formal,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,perfect,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,chocolate-covered,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,uniform,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,first day,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,polar bear,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,liar,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,heart attack,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,sleep over,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,nurse,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,weird,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,car,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,murdered,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,murder,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,girlfriends,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,perfect,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,understand,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,daughter,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,never ever,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,social services,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,hurt,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,learn,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,superpowers,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,worse,1,0.7402415027660609
+aw6,female,american english,after,rhoticity,circumstances,0,0.7402415027660609
+aw6,female,american english,after,rhoticity,sister,0,0.7402415027660609
+bm1,male,british english,after,rhoticity,vampire,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,warm,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,birthday,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,cheer,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,finger,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,wears,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,river,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,driver,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,earn,1,-0.7567687508439579
+bm1,male,british english,after,rhoticity,working,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,hard,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,person,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,turns,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,information,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,rewarded,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,others,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,weird,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,shirt,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,girlfriends,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,research,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,Antarctica,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,flirting,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,bar,1,-0.7567687508439579
+bm1,male,british english,after,rhoticity,card,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,leather jacket,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,opportunity,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,learn,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,share,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,winter,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,formal,1,-0.7567687508439579
+bm1,male,british english,after,rhoticity,perfect,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,chocolate-covered,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,uniform,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,first day,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,polar bear,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,liar,1,-0.7567687508439579
+bm1,male,british english,after,rhoticity,heart attack,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,sleep over,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,nurse,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,weird,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,car,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,murdered,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,murder,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,girlfriends,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,perfect,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,understand,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,daughter,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,never ever,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,social services,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,hurt,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,superpowers,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,worse,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,circumstances,0,-0.7567687508439579
+bm1,male,british english,after,rhoticity,sister,0,-0.7567687508439579
+bm2,male,british english,after,rhoticity,vampire,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,warm,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,birthday,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,cheer,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,finger,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,wears,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,river,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,driver,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,earn,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,working,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,hard,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,person,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,turns,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,information,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,rewarded,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,others,0,1.4887466295710703
+bm2,male,british english,after,rhoticity,weird,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,shirt,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,girlfriends,0,1.4887466295710703
+bm2,male,british english,after,rhoticity,research,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,Antarctica,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,flirting,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,bar,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,card,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,leather jacket,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,opportunity,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,learn,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,share,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,winter,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,formal,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,perfect,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,chocolate-covered,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,uniform,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,first day,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,polar bear,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,liar,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,heart attack,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,sleep over,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,nurse,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,weird,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,car,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,murdered,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,murder,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,girlfriends,0,1.4887466295710703
+bm2,male,british english,after,rhoticity,perfect,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,understand,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,daughter,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,never ever,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,social services,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,hurt,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,learn,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,superpowers,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,worse,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,circumstances,1,1.4887466295710703
+bm2,male,british english,after,rhoticity,sister,1,1.4887466295710703
+bm3,male,british english,after,rhoticity,vampire,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,warm,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,birthday,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,cheer,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,finger,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,wears,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,river,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,driver,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,earn,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,working,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,hard,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,person,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,turns,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,information,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,rewarded,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,others,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,weird,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,shirt,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,girlfriends,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,research,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,Antarctica,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,flirting,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,bar,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,card,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,leather jacket,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,opportunity,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,learn,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,share,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,winter,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,formal,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,perfect,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,chocolate-covered,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,uniform,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,first day,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,polar bear,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,liar,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,heart attack,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,sleep over,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,nurse,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,weird,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,car,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,murdered,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,murder,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,girlfriends,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,perfect,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,understand,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,daughter,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,never ever,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,social services,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,hurt,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,learn,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,superpowers,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,worse,0,-1.2557721687139642
+bm3,male,british english,after,rhoticity,circumstances,1,-1.2557721687139642
+bm3,male,british english,after,rhoticity,sister,0,-1.2557721687139642
+bw1,female,british english,after,rhoticity,vampire,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,warm,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,birthday,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,cheer,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,finger,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,wears,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,river,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,driver,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,earn,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,working,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,hard,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,person,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,turns,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,information,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,rewarded,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,others,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,weird,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,shirt,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,girlfriends,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,research,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,Antarctica,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,flirting,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,bar,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,card,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,leather jacket,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,opportunity,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,learn,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,share,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,winter,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,formal,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,perfect,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,chocolate-covered,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,uniform,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,first day,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,polar bear,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,liar,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,heart attack,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,sleep over,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,nurse,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,weird,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,car,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,murdered,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,murder,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,girlfriends,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,perfect,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,understand,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,daughter,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,never ever,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,social services,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,hurt,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,learn,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,superpowers,1,-0.5072670419089548
+bw1,female,british english,after,rhoticity,worse,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,circumstances,0,-0.5072670419089548
+bw1,female,british english,after,rhoticity,sister,1,-0.5072670419089548
+bw2,female,british english,after,rhoticity,vampire,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,warm,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,birthday,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,cheer,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,finger,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,wears,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,river,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,driver,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,earn,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,working,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,hard,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,person,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,turns,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,information,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,rewarded,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,others,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,weird,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,shirt,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,girlfriends,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,research,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,Antarctica,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,flirting,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,bar,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,card,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,leather jacket,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,opportunity,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,learn,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,share,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,winter,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,formal,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,perfect,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,chocolate-covered,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,uniform,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,first day,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,polar bear,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,liar,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,heart attack,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,sleep over,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,nurse,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,weird,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,car,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,murdered,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,murder,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,girlfriends,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,perfect,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,understand,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,daughter,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,never ever,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,social services,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,hurt,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,learn,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,superpowers,1,1.2392449206360672
+bw2,female,british english,after,rhoticity,worse,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,circumstances,0,1.2392449206360672
+bw2,female,british english,after,rhoticity,sister,1,1.2392449206360672
+bw3,female,british english,after,rhoticity,vampire,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,warm,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,birthday,1,1.9877500474410768
+bw3,female,british english,after,rhoticity,cheer,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,finger,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,wears,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,river,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,driver,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,earn,1,1.9877500474410768
+bw3,female,british english,after,rhoticity,working,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,hard,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,person,1,1.9877500474410768
+bw3,female,british english,after,rhoticity,turns,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,information,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,rewarded,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,others,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,weird,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,shirt,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,girlfriends,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,research,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,Antarctica,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,flirting,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,bar,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,card,1,1.9877500474410768
+bw3,female,british english,after,rhoticity,leather jacket,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,opportunity,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,learn,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,share,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,winter,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,formal,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,perfect,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,chocolate-covered,1,1.9877500474410768
+bw3,female,british english,after,rhoticity,uniform,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,first day,1,1.9877500474410768
+bw3,female,british english,after,rhoticity,polar bear,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,liar,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,heart attack,1,1.9877500474410768
+bw3,female,british english,after,rhoticity,sleep over,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,nurse,1,1.9877500474410768
+bw3,female,british english,after,rhoticity,weird,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,car,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,murdered,1,1.9877500474410768
+bw3,female,british english,after,rhoticity,murder,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,girlfriends,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,perfect,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,understand,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,daughter,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,never ever,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,social services,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,hurt,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,learn,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,superpowers,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,worse,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,circumstances,0,1.9877500474410768
+bw3,female,british english,after,rhoticity,sister,0,1.9877500474410768
+bw4,female,british english,after,rhoticity,vampire,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,warm,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,birthday,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,cheer,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,finger,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,wears,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,river,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,driver,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,earn,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,working,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,hard,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,person,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,turns,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,information,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,rewarded,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,others,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,weird,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,shirt,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,girlfriends,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,research,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,Antarctica,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,flirting,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,bar,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,card,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,leather jacket,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,opportunity,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,learn,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,share,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,winter,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,formal,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,perfect,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,chocolate-covered,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,uniform,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,first day,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,polar bear,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,liar,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,heart attack,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,sleep over,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,nurse,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,weird,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,car,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,murdered,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,murder,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,girlfriends,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,perfect,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,understand,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,daughter,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,never ever,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,social services,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,hurt,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,learn,0,-0.008263624038948479
+bw4,female,british english,after,rhoticity,superpowers,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,worse,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,circumstances,1,-0.008263624038948479
+bw4,female,british english,after,rhoticity,sister,1,-0.008263624038948479
+bw5,female,british english,after,rhoticity,vampire,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,warm,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,birthday,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,cheer,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,finger,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,wears,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,river,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,driver,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,earn,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,working,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,hard,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,person,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,turns,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,information,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,rewarded,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,others,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,weird,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,shirt,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,girlfriends,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,research,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,Antarctica,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,flirting,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,bar,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,card,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,leather jacket,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,opportunity,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,learn,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,share,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,winter,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,formal,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,perfect,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,chocolate-covered,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,uniform,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,first day,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,polar bear,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,liar,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,heart attack,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,sleep over,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,nurse,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,weird,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,car,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,murdered,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,murder,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,girlfriends,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,perfect,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,understand,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,daughter,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,never ever,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,social services,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,hurt,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,learn,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,superpowers,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,worse,1,-0.7567687508439579
+bw5,female,british english,after,rhoticity,circumstances,0,-0.7567687508439579
+bw5,female,british english,after,rhoticity,sister,0,-0.7567687508439579
+bw6,female,british english,after,rhoticity,vampire,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,warm,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,birthday,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,cheer,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,finger,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,wears,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,river,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,driver,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,earn,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,working,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,hard,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,person,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,turns,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,information,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,rewarded,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,others,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,weird,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,shirt,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,girlfriends,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,research,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,Antarctica,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,flirting,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,bar,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,card,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,leather jacket,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,opportunity,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,learn,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,share,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,winter,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,formal,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,perfect,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,chocolate-covered,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,uniform,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,first day,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,polar bear,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,liar,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,heart attack,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,sleep over,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,nurse,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,weird,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,car,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,murdered,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,murder,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,girlfriends,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,perfect,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,understand,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,daughter,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,never ever,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,social services,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,hurt,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,learn,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,superpowers,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,worse,0,-0.2577653329739516
+bw6,female,british english,after,rhoticity,circumstances,1,-0.2577653329739516
+bw6,female,british english,after,rhoticity,sister,0,-0.2577653329739516
+am1,male,american english,before,t-flapping,unbeatable,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,mosquitoes,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,parties,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,better,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,water,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,butter,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,writers,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,dating,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,Saturday,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,caterpillar,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,waited,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,matter,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,comitting,1,-0.2577653329739516
+am1,male,american english,before,t-flapping,beautiful,1,-0.2577653329739516
+am2,male,american english,before,t-flapping,attitude,0,-1.7547755865839705
+am2,male,american english,before,t-flapping,unbeatable,1,-1.7547755865839705
+am2,male,american english,before,t-flapping,mosquitoes,0,-1.7547755865839705
+am2,male,american english,before,t-flapping,better,1,-1.7547755865839705
+am2,male,american english,before,t-flapping,water,1,-1.7547755865839705
+am2,male,american english,before,t-flapping,butter,0,-1.7547755865839705
+am2,male,american english,before,t-flapping,hatter,0,-1.7547755865839705
+am2,male,american english,before,t-flapping,letters,1,-1.7547755865839705
+am2,male,american english,before,t-flapping,dating,0,-1.7547755865839705
+am2,male,american english,before,t-flapping,Saturday,0,-1.7547755865839705
+am2,male,american english,before,t-flapping,caterpillar,0,-1.7547755865839705
+am2,male,american english,before,t-flapping,matter,1,-1.7547755865839705
+am2,male,american english,before,t-flapping,comitting,1,-1.7547755865839705
+am2,male,american english,before,t-flapping,beautiful,0,-1.7547755865839705
+am3,male,american english,before,t-flapping,attitude,0,-0.2577653329739516
+am3,male,american english,before,t-flapping,mosquitoes,1,-0.2577653329739516
+am3,male,american english,before,t-flapping,parties,1,-0.2577653329739516
+am3,male,american english,before,t-flapping,better,1,-0.2577653329739516
+am3,male,american english,before,t-flapping,water,1,-0.2577653329739516
+am3,male,american english,before,t-flapping,butter,1,-0.2577653329739516
+am3,male,american english,before,t-flapping,hatter,1,-0.2577653329739516
+am3,male,american english,before,t-flapping,dating,0,-0.2577653329739516
+am3,male,american english,before,t-flapping,Saturday,0,-0.2577653329739516
+am3,male,american english,before,t-flapping,caterpillar,0,-0.2577653329739516
+am3,male,american english,before,t-flapping,matter,1,-0.2577653329739516
+am3,male,american english,before,t-flapping,comitting,1,-0.2577653329739516
+aw1,female,american english,before,t-flapping,attitude,0,-0.2577653329739516
+aw1,female,american english,before,t-flapping,unbeatable,0,-0.2577653329739516
+aw1,female,american english,before,t-flapping,mosquitoes,1,-0.2577653329739516
+aw1,female,american english,before,t-flapping,better,1,-0.2577653329739516
+aw1,female,american english,before,t-flapping,water,1,-0.2577653329739516
+aw1,female,american english,before,t-flapping,hatter,1,-0.2577653329739516
+aw1,female,american english,before,t-flapping,writers,0,-0.2577653329739516
+aw1,female,american english,before,t-flapping,letters,0,-0.2577653329739516
+aw1,female,american english,before,t-flapping,dating,0,-0.2577653329739516
+aw1,female,american english,before,t-flapping,Saturday,1,-0.2577653329739516
+aw1,female,american english,before,t-flapping,caterpillar,0,-0.2577653329739516
+aw1,female,american english,before,t-flapping,waited,0,-0.2577653329739516
+aw1,female,american english,before,t-flapping,matter,1,-0.2577653329739516
+aw1,female,american english,before,t-flapping,beautiful,1,-0.2577653329739516
+aw2,female,american english,before,t-flapping,attitude,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,unbeatable,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,mosquitoes,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,parties,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,better,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,water,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,butter,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,hatter,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,writers,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,letters,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,dating,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,Saturday,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,caterpillar,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,waited,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,matter,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,comitting,0,-1.0062704597789611
+aw2,female,american english,before,t-flapping,beautiful,0,-1.0062704597789611
+aw3,female,american english,before,t-flapping,attitude,1,0.24123808489605467
+aw3,female,american english,before,t-flapping,unbeatable,0,0.24123808489605467
+aw3,female,american english,before,t-flapping,mosquitoes,0,0.24123808489605467
+aw3,female,american english,before,t-flapping,parties,0,0.24123808489605467
+aw3,female,american english,before,t-flapping,better,1,0.24123808489605467
+aw3,female,american english,before,t-flapping,water,0,0.24123808489605467
+aw3,female,american english,before,t-flapping,hatter,1,0.24123808489605467
+aw3,female,american english,before,t-flapping,writers,0,0.24123808489605467
+aw3,female,american english,before,t-flapping,letters,1,0.24123808489605467
+aw3,female,american english,before,t-flapping,dating,0,0.24123808489605467
+aw3,female,american english,before,t-flapping,Saturday,0,0.24123808489605467
+aw3,female,american english,before,t-flapping,caterpillar,0,0.24123808489605467
+aw3,female,american english,before,t-flapping,waited,1,0.24123808489605467
+aw3,female,american english,before,t-flapping,matter,1,0.24123808489605467
+aw3,female,american english,before,t-flapping,comitting,0,0.24123808489605467
+aw3,female,american english,before,t-flapping,beautiful,1,0.24123808489605467
+aw4,female,american english,before,t-flapping,attitude,1,1.4887466295710703
+aw4,female,american english,before,t-flapping,unbeatable,0,1.4887466295710703
+aw4,female,american english,before,t-flapping,mosquitoes,0,1.4887466295710703
+aw4,female,american english,before,t-flapping,parties,0,1.4887466295710703
+aw4,female,american english,before,t-flapping,better,1,1.4887466295710703
+aw4,female,american english,before,t-flapping,butter,0,1.4887466295710703
+aw4,female,american english,before,t-flapping,hatter,0,1.4887466295710703
+aw4,female,american english,before,t-flapping,writers,0,1.4887466295710703
+aw4,female,american english,before,t-flapping,letters,0,1.4887466295710703
+aw4,female,american english,before,t-flapping,dating,1,1.4887466295710703
+aw4,female,american english,before,t-flapping,Saturday,1,1.4887466295710703
+aw4,female,american english,before,t-flapping,caterpillar,0,1.4887466295710703
+aw4,female,american english,before,t-flapping,waited,0,1.4887466295710703
+aw4,female,american english,before,t-flapping,matter,1,1.4887466295710703
+aw4,female,american english,before,t-flapping,comitting,1,1.4887466295710703
+aw5,female,american english,before,t-flapping,attitude,1,-0.2577653329739516
+aw5,female,american english,before,t-flapping,unbeatable,0,-0.2577653329739516
+aw5,female,american english,before,t-flapping,mosquitoes,1,-0.2577653329739516
+aw5,female,american english,before,t-flapping,parties,1,-0.2577653329739516
+aw5,female,american english,before,t-flapping,water,0,-0.2577653329739516
+aw5,female,american english,before,t-flapping,hatter,1,-0.2577653329739516
+aw5,female,american english,before,t-flapping,writers,1,-0.2577653329739516
+aw5,female,american english,before,t-flapping,letters,1,-0.2577653329739516
+aw5,female,american english,before,t-flapping,dating,1,-0.2577653329739516
+aw5,female,american english,before,t-flapping,Saturday,0,-0.2577653329739516
+aw5,female,american english,before,t-flapping,matter,0,-0.2577653329739516
+aw5,female,american english,before,t-flapping,comitting,1,-0.2577653329739516
+aw5,female,american english,before,t-flapping,beautiful,1,-0.2577653329739516
+aw6,female,american english,before,t-flapping,attitude,1,0.7402415027660609
+aw6,female,american english,before,t-flapping,unbeatable,0,0.7402415027660609
+aw6,female,american english,before,t-flapping,parties,1,0.7402415027660609
+aw6,female,american english,before,t-flapping,better,1,0.7402415027660609
+aw6,female,american english,before,t-flapping,water,1,0.7402415027660609
+aw6,female,american english,before,t-flapping,butter,1,0.7402415027660609
+aw6,female,american english,before,t-flapping,letters,0,0.7402415027660609
+aw6,female,american english,before,t-flapping,dating,0,0.7402415027660609
+aw6,female,american english,before,t-flapping,Saturday,0,0.7402415027660609
+aw6,female,american english,before,t-flapping,caterpillar,0,0.7402415027660609
+aw6,female,american english,before,t-flapping,waited,1,0.7402415027660609
+aw6,female,american english,before,t-flapping,matter,1,0.7402415027660609
+aw6,female,american english,before,t-flapping,comitting,1,0.7402415027660609
+aw6,female,american english,before,t-flapping,beautiful,1,0.7402415027660609
+bm1,male,british english,before,t-flapping,attitude,1,-0.7567687508439579
+bm1,male,british english,before,t-flapping,unbeatable,0,-0.7567687508439579
+bm1,male,british english,before,t-flapping,mosquitoes,1,-0.7567687508439579
+bm1,male,british english,before,t-flapping,parties,1,-0.7567687508439579
+bm1,male,british english,before,t-flapping,better,1,-0.7567687508439579
+bm1,male,british english,before,t-flapping,water,1,-0.7567687508439579
+bm1,male,british english,before,t-flapping,butter,1,-0.7567687508439579
+bm1,male,british english,before,t-flapping,hatter,1,-0.7567687508439579
+bm1,male,british english,before,t-flapping,writers,1,-0.7567687508439579
+bm1,male,british english,before,t-flapping,letters,1,-0.7567687508439579
+bm1,male,british english,before,t-flapping,dating,0,-0.7567687508439579
+bm1,male,british english,before,t-flapping,Saturday,1,-0.7567687508439579
+bm1,male,british english,before,t-flapping,caterpillar,0,-0.7567687508439579
+bm1,male,british english,before,t-flapping,waited,0,-0.7567687508439579
+bm1,male,british english,before,t-flapping,comitting,0,-0.7567687508439579
+bm1,male,british english,before,t-flapping,beautiful,1,-0.7567687508439579
+bm2,male,british english,before,t-flapping,attitude,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,unbeatable,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,mosquitoes,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,parties,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,better,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,water,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,butter,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,writers,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,letters,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,dating,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,Saturday,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,caterpillar,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,waited,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,matter,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,comitting,1,1.4887466295710703
+bm2,male,british english,before,t-flapping,beautiful,1,1.4887466295710703
+bm3,male,british english,before,t-flapping,attitude,1,-1.2557721687139642
+bm3,male,british english,before,t-flapping,unbeatable,1,-1.2557721687139642
+bm3,male,british english,before,t-flapping,mosquitoes,1,-1.2557721687139642
+bm3,male,british english,before,t-flapping,parties,0,-1.2557721687139642
+bm3,male,british english,before,t-flapping,better,1,-1.2557721687139642
+bm3,male,british english,before,t-flapping,water,1,-1.2557721687139642
+bm3,male,british english,before,t-flapping,writers,0,-1.2557721687139642
+bm3,male,british english,before,t-flapping,letters,1,-1.2557721687139642
+bm3,male,british english,before,t-flapping,dating,0,-1.2557721687139642
+bm3,male,british english,before,t-flapping,caterpillar,0,-1.2557721687139642
+bm3,male,british english,before,t-flapping,matter,1,-1.2557721687139642
+bm3,male,british english,before,t-flapping,beautiful,1,-1.2557721687139642
+bw1,female,british english,before,t-flapping,attitude,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,unbeatable,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,mosquitoes,0,-0.5072670419089548
+bw1,female,british english,before,t-flapping,parties,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,better,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,water,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,butter,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,hatter,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,writers,0,-0.5072670419089548
+bw1,female,british english,before,t-flapping,letters,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,dating,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,Saturday,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,caterpillar,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,waited,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,matter,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,comitting,1,-0.5072670419089548
+bw1,female,british english,before,t-flapping,beautiful,1,-0.5072670419089548
+bw2,female,british english,before,t-flapping,attitude,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,unbeatable,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,mosquitoes,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,parties,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,better,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,water,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,butter,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,hatter,0,1.2392449206360672
+bw2,female,british english,before,t-flapping,writers,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,letters,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,dating,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,Saturday,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,caterpillar,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,matter,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,comitting,1,1.2392449206360672
+bw2,female,british english,before,t-flapping,beautiful,1,1.2392449206360672
+bw3,female,british english,before,t-flapping,attitude,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,mosquitoes,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,parties,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,better,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,water,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,butter,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,hatter,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,writers,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,letters,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,dating,0,1.9877500474410768
+bw3,female,british english,before,t-flapping,Saturday,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,caterpillar,0,1.9877500474410768
+bw3,female,british english,before,t-flapping,waited,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,matter,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,comitting,1,1.9877500474410768
+bw3,female,british english,before,t-flapping,beautiful,1,1.9877500474410768
+bw4,female,british english,before,t-flapping,attitude,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,unbeatable,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,mosquitoes,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,parties,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,better,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,water,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,butter,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,hatter,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,writers,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,letters,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,dating,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,Saturday,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,caterpillar,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,waited,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,matter,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,comitting,0,-0.008263624038948479
+bw4,female,british english,before,t-flapping,beautiful,0,-0.008263624038948479
+bw5,female,british english,before,t-flapping,mosquitoes,0,-0.7567687508439579
+bw5,female,british english,before,t-flapping,parties,1,-0.7567687508439579
+bw5,female,british english,before,t-flapping,better,1,-0.7567687508439579
+bw5,female,british english,before,t-flapping,water,1,-0.7567687508439579
+bw5,female,british english,before,t-flapping,hatter,0,-0.7567687508439579
+bw5,female,british english,before,t-flapping,writers,0,-0.7567687508439579
+bw5,female,british english,before,t-flapping,Saturday,1,-0.7567687508439579
+bw5,female,british english,before,t-flapping,waited,1,-0.7567687508439579
+bw5,female,british english,before,t-flapping,matter,1,-0.7567687508439579
+bw5,female,british english,before,t-flapping,comitting,0,-0.7567687508439579
+bw5,female,british english,before,t-flapping,beautiful,1,-0.7567687508439579
+bw6,female,british english,before,t-flapping,attitude,1,-0.2577653329739516
+bw6,female,british english,before,t-flapping,unbeatable,0,-0.2577653329739516
+bw6,female,british english,before,t-flapping,parties,1,-0.2577653329739516
+bw6,female,british english,before,t-flapping,better,1,-0.2577653329739516
+bw6,female,british english,before,t-flapping,water,1,-0.2577653329739516
+bw6,female,british english,before,t-flapping,butter,1,-0.2577653329739516
+bw6,female,british english,before,t-flapping,hatter,0,-0.2577653329739516
+bw6,female,british english,before,t-flapping,writers,0,-0.2577653329739516
+bw6,female,british english,before,t-flapping,letters,1,-0.2577653329739516
+bw6,female,british english,before,t-flapping,dating,1,-0.2577653329739516
+bw6,female,british english,before,t-flapping,Saturday,1,-0.2577653329739516
+bw6,female,british english,before,t-flapping,caterpillar,0,-0.2577653329739516
+bw6,female,british english,before,t-flapping,waited,1,-0.2577653329739516
+bw6,female,british english,before,t-flapping,matter,1,-0.2577653329739516
+bw6,female,british english,before,t-flapping,beautiful,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,unbeatable,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,mosquitoes,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,parties,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,better,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,water,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,butter,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,writers,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,dating,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,Saturday,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,caterpillar,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,waited,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,matter,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,comitting,1,-0.2577653329739516
+am1,male,american english,after,t-flapping,beautiful,1,-0.2577653329739516
+am2,male,american english,after,t-flapping,attitude,0,-1.7547755865839705
+am2,male,american english,after,t-flapping,unbeatable,1,-1.7547755865839705
+am2,male,american english,after,t-flapping,mosquitoes,1,-1.7547755865839705
+am2,male,american english,after,t-flapping,better,1,-1.7547755865839705
+am2,male,american english,after,t-flapping,water,1,-1.7547755865839705
+am2,male,american english,after,t-flapping,butter,1,-1.7547755865839705
+am2,male,american english,after,t-flapping,hatter,0,-1.7547755865839705
+am2,male,american english,after,t-flapping,letters,0,-1.7547755865839705
+am2,male,american english,after,t-flapping,dating,1,-1.7547755865839705
+am2,male,american english,after,t-flapping,Saturday,1,-1.7547755865839705
+am2,male,american english,after,t-flapping,caterpillar,0,-1.7547755865839705
+am2,male,american english,after,t-flapping,matter,1,-1.7547755865839705
+am2,male,american english,after,t-flapping,comitting,1,-1.7547755865839705
+am2,male,american english,after,t-flapping,beautiful,1,-1.7547755865839705
+am3,male,american english,after,t-flapping,attitude,0,-0.2577653329739516
+am3,male,american english,after,t-flapping,mosquitoes,1,-0.2577653329739516
+am3,male,american english,after,t-flapping,parties,1,-0.2577653329739516
+am3,male,american english,after,t-flapping,better,1,-0.2577653329739516
+am3,male,american english,after,t-flapping,water,0,-0.2577653329739516
+am3,male,american english,after,t-flapping,butter,0,-0.2577653329739516
+am3,male,american english,after,t-flapping,hatter,1,-0.2577653329739516
+am3,male,american english,after,t-flapping,dating,1,-0.2577653329739516
+am3,male,american english,after,t-flapping,Saturday,0,-0.2577653329739516
+am3,male,american english,after,t-flapping,caterpillar,0,-0.2577653329739516
+am3,male,american english,after,t-flapping,matter,1,-0.2577653329739516
+am3,male,american english,after,t-flapping,comitting,1,-0.2577653329739516
+aw1,female,american english,after,t-flapping,attitude,0,-0.2577653329739516
+aw1,female,american english,after,t-flapping,unbeatable,0,-0.2577653329739516
+aw1,female,american english,after,t-flapping,mosquitoes,1,-0.2577653329739516
+aw1,female,american english,after,t-flapping,better,1,-0.2577653329739516
+aw1,female,american english,after,t-flapping,water,1,-0.2577653329739516
+aw1,female,american english,after,t-flapping,hatter,1,-0.2577653329739516
+aw1,female,american english,after,t-flapping,writers,0,-0.2577653329739516
+aw1,female,american english,after,t-flapping,letters,0,-0.2577653329739516
+aw1,female,american english,after,t-flapping,dating,0,-0.2577653329739516
+aw1,female,american english,after,t-flapping,Saturday,0,-0.2577653329739516
+aw1,female,american english,after,t-flapping,caterpillar,0,-0.2577653329739516
+aw1,female,american english,after,t-flapping,waited,0,-0.2577653329739516
+aw1,female,american english,after,t-flapping,matter,1,-0.2577653329739516
+aw1,female,american english,after,t-flapping,beautiful,1,-0.2577653329739516
+aw2,female,american english,after,t-flapping,attitude,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,unbeatable,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,mosquitoes,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,parties,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,better,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,water,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,butter,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,hatter,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,writers,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,letters,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,dating,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,Saturday,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,caterpillar,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,waited,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,matter,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,comitting,0,-1.0062704597789611
+aw2,female,american english,after,t-flapping,beautiful,1,-1.0062704597789611
+aw3,female,american english,after,t-flapping,attitude,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,unbeatable,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,mosquitoes,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,parties,0,0.24123808489605467
+aw3,female,american english,after,t-flapping,better,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,water,0,0.24123808489605467
+aw3,female,american english,after,t-flapping,hatter,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,writers,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,letters,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,dating,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,Saturday,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,caterpillar,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,waited,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,matter,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,comitting,1,0.24123808489605467
+aw3,female,american english,after,t-flapping,beautiful,1,0.24123808489605467
+aw4,female,american english,after,t-flapping,attitude,1,1.4887466295710703
+aw4,female,american english,after,t-flapping,unbeatable,0,1.4887466295710703
+aw4,female,american english,after,t-flapping,mosquitoes,0,1.4887466295710703
+aw4,female,american english,after,t-flapping,parties,1,1.4887466295710703
+aw4,female,american english,after,t-flapping,better,1,1.4887466295710703
+aw4,female,american english,after,t-flapping,butter,1,1.4887466295710703
+aw4,female,american english,after,t-flapping,hatter,0,1.4887466295710703
+aw4,female,american english,after,t-flapping,writers,1,1.4887466295710703
+aw4,female,american english,after,t-flapping,letters,1,1.4887466295710703
+aw4,female,american english,after,t-flapping,dating,1,1.4887466295710703
+aw4,female,american english,after,t-flapping,Saturday,1,1.4887466295710703
+aw4,female,american english,after,t-flapping,caterpillar,0,1.4887466295710703
+aw4,female,american english,after,t-flapping,waited,1,1.4887466295710703
+aw4,female,american english,after,t-flapping,matter,1,1.4887466295710703
+aw4,female,american english,after,t-flapping,comitting,1,1.4887466295710703
+aw5,female,american english,after,t-flapping,attitude,1,-0.2577653329739516
+aw5,female,american english,after,t-flapping,unbeatable,0,-0.2577653329739516
+aw5,female,american english,after,t-flapping,mosquitoes,1,-0.2577653329739516
+aw5,female,american english,after,t-flapping,parties,1,-0.2577653329739516
+aw5,female,american english,after,t-flapping,water,0,-0.2577653329739516
+aw5,female,american english,after,t-flapping,hatter,1,-0.2577653329739516
+aw5,female,american english,after,t-flapping,writers,1,-0.2577653329739516
+aw5,female,american english,after,t-flapping,letters,0,-0.2577653329739516
+aw5,female,american english,after,t-flapping,dating,0,-0.2577653329739516
+aw5,female,american english,after,t-flapping,Saturday,0,-0.2577653329739516
+aw5,female,american english,after,t-flapping,matter,0,-0.2577653329739516
+aw5,female,american english,after,t-flapping,comitting,1,-0.2577653329739516
+aw5,female,american english,after,t-flapping,beautiful,1,-0.2577653329739516
+aw6,female,american english,after,t-flapping,attitude,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,unbeatable,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,parties,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,better,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,water,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,butter,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,letters,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,dating,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,Saturday,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,caterpillar,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,waited,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,matter,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,comitting,1,0.7402415027660609
+aw6,female,american english,after,t-flapping,beautiful,1,0.7402415027660609
+bm1,male,british english,after,t-flapping,attitude,1,-0.7567687508439579
+bm1,male,british english,after,t-flapping,unbeatable,0,-0.7567687508439579
+bm1,male,british english,after,t-flapping,mosquitoes,0,-0.7567687508439579
+bm1,male,british english,after,t-flapping,parties,1,-0.7567687508439579
+bm1,male,british english,after,t-flapping,better,1,-0.7567687508439579
+bm1,male,british english,after,t-flapping,water,1,-0.7567687508439579
+bm1,male,british english,after,t-flapping,butter,1,-0.7567687508439579
+bm1,male,british english,after,t-flapping,hatter,1,-0.7567687508439579
+bm1,male,british english,after,t-flapping,writers,1,-0.7567687508439579
+bm1,male,british english,after,t-flapping,letters,1,-0.7567687508439579
+bm1,male,british english,after,t-flapping,dating,0,-0.7567687508439579
+bm1,male,british english,after,t-flapping,Saturday,1,-0.7567687508439579
+bm1,male,british english,after,t-flapping,caterpillar,0,-0.7567687508439579
+bm1,male,british english,after,t-flapping,waited,0,-0.7567687508439579
+bm1,male,british english,after,t-flapping,comitting,0,-0.7567687508439579
+bm1,male,british english,after,t-flapping,beautiful,1,-0.7567687508439579
+bm2,male,british english,after,t-flapping,attitude,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,unbeatable,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,mosquitoes,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,parties,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,better,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,water,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,butter,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,writers,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,letters,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,dating,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,Saturday,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,caterpillar,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,waited,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,matter,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,comitting,1,1.4887466295710703
+bm2,male,british english,after,t-flapping,beautiful,1,1.4887466295710703
+bm3,male,british english,after,t-flapping,attitude,1,-1.2557721687139642
+bm3,male,british english,after,t-flapping,unbeatable,1,-1.2557721687139642
+bm3,male,british english,after,t-flapping,mosquitoes,1,-1.2557721687139642
+bm3,male,british english,after,t-flapping,parties,1,-1.2557721687139642
+bm3,male,british english,after,t-flapping,better,1,-1.2557721687139642
+bm3,male,british english,after,t-flapping,water,0,-1.2557721687139642
+bm3,male,british english,after,t-flapping,writers,1,-1.2557721687139642
+bm3,male,british english,after,t-flapping,letters,1,-1.2557721687139642
+bm3,male,british english,after,t-flapping,dating,0,-1.2557721687139642
+bm3,male,british english,after,t-flapping,caterpillar,0,-1.2557721687139642
+bm3,male,british english,after,t-flapping,matter,1,-1.2557721687139642
+bm3,male,british english,after,t-flapping,beautiful,1,-1.2557721687139642
+bw1,female,british english,after,t-flapping,attitude,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,unbeatable,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,mosquitoes,0,-0.5072670419089548
+bw1,female,british english,after,t-flapping,parties,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,better,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,water,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,butter,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,hatter,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,writers,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,letters,0,-0.5072670419089548
+bw1,female,british english,after,t-flapping,dating,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,Saturday,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,caterpillar,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,waited,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,matter,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,comitting,1,-0.5072670419089548
+bw1,female,british english,after,t-flapping,beautiful,1,-0.5072670419089548
+bw2,female,british english,after,t-flapping,attitude,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,unbeatable,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,mosquitoes,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,parties,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,better,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,water,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,butter,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,hatter,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,writers,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,letters,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,dating,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,Saturday,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,caterpillar,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,matter,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,comitting,1,1.2392449206360672
+bw2,female,british english,after,t-flapping,beautiful,1,1.2392449206360672
+bw3,female,british english,after,t-flapping,attitude,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,mosquitoes,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,parties,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,better,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,water,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,butter,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,hatter,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,writers,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,letters,0,1.9877500474410768
+bw3,female,british english,after,t-flapping,dating,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,Saturday,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,caterpillar,0,1.9877500474410768
+bw3,female,british english,after,t-flapping,waited,0,1.9877500474410768
+bw3,female,british english,after,t-flapping,matter,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,comitting,1,1.9877500474410768
+bw3,female,british english,after,t-flapping,beautiful,1,1.9877500474410768
+bw4,female,british english,after,t-flapping,attitude,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,unbeatable,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,mosquitoes,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,parties,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,better,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,water,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,butter,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,hatter,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,writers,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,letters,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,dating,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,Saturday,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,caterpillar,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,waited,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,matter,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,comitting,0,-0.008263624038948479
+bw4,female,british english,after,t-flapping,beautiful,0,-0.008263624038948479
+bw5,female,british english,after,t-flapping,mosquitoes,0,-0.7567687508439579
+bw5,female,british english,after,t-flapping,parties,1,-0.7567687508439579
+bw5,female,british english,after,t-flapping,better,0,-0.7567687508439579
+bw5,female,british english,after,t-flapping,water,1,-0.7567687508439579
+bw5,female,british english,after,t-flapping,hatter,0,-0.7567687508439579
+bw5,female,british english,after,t-flapping,writers,0,-0.7567687508439579
+bw5,female,british english,after,t-flapping,Saturday,1,-0.7567687508439579
+bw5,female,british english,after,t-flapping,waited,0,-0.7567687508439579
+bw5,female,british english,after,t-flapping,matter,0,-0.7567687508439579
+bw5,female,british english,after,t-flapping,comitting,0,-0.7567687508439579
+bw5,female,british english,after,t-flapping,beautiful,1,-0.7567687508439579
+bw6,female,british english,after,t-flapping,attitude,1,-0.2577653329739516
+bw6,female,british english,after,t-flapping,unbeatable,0,-0.2577653329739516
+bw6,female,british english,after,t-flapping,parties,1,-0.2577653329739516
+bw6,female,british english,after,t-flapping,better,1,-0.2577653329739516
+bw6,female,british english,after,t-flapping,water,1,-0.2577653329739516
+bw6,female,british english,after,t-flapping,butter,1,-0.2577653329739516
+bw6,female,british english,after,t-flapping,hatter,0,-0.2577653329739516
+bw6,female,british english,after,t-flapping,writers,1,-0.2577653329739516
+bw6,female,british english,after,t-flapping,letters,0,-0.2577653329739516
+bw6,female,british english,after,t-flapping,dating,1,-0.2577653329739516
+bw6,female,british english,after,t-flapping,Saturday,0,-0.2577653329739516
+bw6,female,british english,after,t-flapping,caterpillar,0,-0.2577653329739516
+bw6,female,british english,after,t-flapping,waited,1,-0.2577653329739516
+bw6,female,british english,after,t-flapping,matter,1,-0.2577653329739516
+bw6,female,british english,after,t-flapping,beautiful,1,-0.2577653329739516

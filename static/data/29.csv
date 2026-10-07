@@ -1,0 +1,432 @@
+﻿Speaker,desc::Feedback,Type,Value,Form,Modality,desc::Visual features,video_url,recorded
+A1,laughter,affiliation,negative,generic,audible,,29/A1_laughter.mp4,yes
+A1,laughter,affiliation,positive,generic,audible,,,no
+A1,smile,affiliation,positive,N/A,visible,smile,,no
+A1,laughter,affiliation,positive,generic,audible,,,no
+A1,ouais,affiliation,positive,generic,audible,,,no
+A1,laughter,affiliation,positive,generic,audible,,,no
+A1,ah nan+smile+gesture,alignment,negative,mix,bimodal,gesture,29/A1_bimodal.mp4,yes
+A1,nod,alignment,positive,N/A,visible,nod,,no
+A1,nan,alignment,negative,generic,audible,,,no
+A1,laughter,affiliation,positive,generic,audible,,,no
+A1,oui,alignment,positive,generic,audible,,,no
+A1,ah,alignment,negative,generic,audible,,,no
+A1,ah oui+raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+A1,laughter,affiliation,positive,generic,audible,,,no
+A1,ok,alignment,positive,generic,audible,,,no
+A1,pas du tout,alignment,negative,specific,audible,,,no
+A1,ouais+nod+smile,alignment,positive,generic,bimodal,nod+smile,,no
+A1,ouais+nod,alignment,positive,generic,bimodal,nod,,no
+A1,laughter,affiliation,positive,generic,audible,,,no
+A1,ah c'est super cool,affiliation,positive,specific,audible,,,no
+A1,laughter,affiliation,positive,generic,audible,,,no
+A1,ouais+laughter,alignment,positive,generic,audible,,,no
+A1,laughter,affiliation,positive,generic,audible,,,no
+A1,laughter,affiliation,positive,generic,audible,,,no
+A1,ah,affiliation,positive,generic,audible,,,no
+A1,laughter,affiliation,positive,generic,audible,,,no
+A1,attends c'est quoi ça ça me dit quelque chose ?,alignment,negative,specific,audible,,,no
+A1,nod,alignment,positive,N/A,visible,nod,,no
+A1,mm,alignment,positive,generic,audible,,,no
+A1,nod,alignment,positive,N/A,visible,nod,,no
+A1,laughter,alignment,positive,generic,audible,,,no
+A1,nod,alignment,positive,N/A,visible,nod,,no
+A1,ah oui+raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+A1,mm,alignment,positive,generic,bimodal,raised eyebrows,,no
+A1,un archéologue voilà+laughter+gesture,alignment,positive,mix,bimodal,gesture,,no
+A2,oui ok+nod,alignment,positive,generic,bimodal,nod,,no
+A2,ouais,alignment,positive,generic,audible,,,no
+A2,mm + nod,alignment,positive,generic,bimodal,nod,,no
+A2,ouais,alignment,positive,generic,audible,,,no
+A2,ok bon ça va alors.,alignment,positive,generic,audible,,,no
+A2,ah,affiliation,negative,generic,bimodal,head forward,,no
+A2,ah bon,alignment,negative,generic,audible,,,no
+A2,nod,alignment,positive,N/A,visible,nod,,no
+A2,nan,alignment,positive,generic,bimodal,headshake,,no
+A2,mm+nod+smile,alignment,positive,generic,bimodal,nod+smile,,no
+A2,d'accord,alignment,positive,generic,audible,,,no
+A2,ah raised+ eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+A2,head forward,alignment,negative,N/A,visible,head forward,,no
+A2,nan,alignment,negative,generic,audible,,,no
+A2,smile+nod,alignment,positive,N/A,visible,nod+smile,,no
+A2,ah ouais + raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+A2,mm+nod,alignment,positive,generic,bimodal,nod,,no
+A2,smile,alignment,positive,N/A,visible,smile,,no
+A2,mm+smile+nod,alignment,positive,generic,bimodal,nod+smile,,no
+A2,gaze away,alignment,positive,N/A,visible,gaze away,,no
+B1,les orteilles,alignment,positive,specific,audible,,,no
+B1,ah,alignment,positive,generic,audible,,,no
+B1,ah oui+nod,alignment,positive,generic,bimodal,nod,,no
+B1,laughter,alignment,positive,generic,audible,,,no
+B1,ouais,alignment,positive,generic,audible,,,no
+B1,smile,alignment,positive,mix,visible,smile,,no
+B1,mm,alignment,positive,generic,audible,,,no
+B1,head forward+c'est à dire le visiter,alignment,negative,mix,bimodal,head forward,,no
+B1,smile,affiliation,positive,N/A,visible,smile,,no
+B1,explorer l'Opéra de Montpellier,affiliation,positive,specific,audible,,,no
+B1,ok+nod+smile,alignment,positive,generic,bimodal,nod+smile,,no
+B1,laughter,affiliation,positive,generic,audible,,,no
+B1,t'es mort,alignment,positive,specific,audible,,,no
+B1,ok,alignment,positive,generic,audible,,,no
+B1,ouais,alignment,positive,generic,audible,,,no
+B1,laughter,affiliation,positive,generic,audible,,,no
+B1,ah c'est gênant,affiliation,positive,specific,audible,,,no
+B1,alors là,affiliation,positive,generic,audible,,,no
+B1,ah du coup vous y êtes allés après?,alignment,negative,specific,audible,,,no
+B1,laughter,affiliation,positive,generic,audible,,,no
+B2,laughter,affiliation,positive,generic,audible,,,no
+B2,ah,alignment,positive,generic,audible,,,no
+B2,ok,alignment,positive,generic,audible,,,no
+B2,ah oui+raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+B2,mm+nod,alignment,positive,generic,bimodal,nod,,no
+B2,nod+smile,alignment,positive,N/A,visible,nod+smile,,no
+B2,laughter,affiliation,positive,generic,audible,,,no
+B2,mm,alignment,positive,generic,audible,,,no
+B2,nod,alignment,positive,N/A,visible,nod,,no
+B2,ouais+nod,alignment,positive,generic,bimodal,nod,,no
+B2,nod,alignment,positive,N/A,visible,nod,,no
+B2,nod,alignment,positive,N/A,visible,nod,,no
+B2,head move+eyes open+ah bah génial,affiliation,positive,mix,bimodal,head move+eyes,,no
+B2,ouais,alignment,positive,generic,audible,,,no
+B2,head move+eyes,affiliation,positive,generic,bimodal,head move+eyes,,no
+B2,laughter,alignment,positive,generic,audible,,,no
+B2,ouais,alignment,positive,generic,audible,,,no
+B2,mm+nod,affiliation,positive,generic,bimodal,nod,,no
+B2,nod,alignment,positive,N/A,visible,nod,29/B2_nod.mp4,yes
+B2,nod,alignment,positive,N/A,visible,nod,,no
+B2,laughter,alignment,positive,generic,audible,,,no
+B2,ah oui je vois très bien c'est celles avec les orteilles xx.,alignment,positive,mix,bimodal,nod,29/B2_bimodal.mp4,yes
+B2,ouais,alignment,positive,generic,audible,,,no
+B2,ouais,alignment,positive,generic,audible,,,no
+B2,raised eyebrows,affiliation,negative,N/A,visible,raised eyebrows,,no
+B2,d'accord,alignment,positive,generic,audible,,,no
+B2,nod,alignment,positive,N/A,visible,nod,,no
+B2,laughter+head move+eyes+mais nan,affiliation,positive,generic,bimodal,head move+eyes,,no
+B2,laughter,affiliation,positive,generic,audible,,,no
+B2,nod,alignment,positive,N/A,visible,nod,,no
+B2,laughter+c'est tellement drôle,affiliation,positive,mix,audible,,,no
+B2,d'accord,alignment,positive,generic,audible,,,no
+B2,ouais j'avais super du temps+eyebrows,affiliation,positive,mix,bimodal,raised eyebrows,,no
+B2,oui le visiter+nod,alignment,positive,mix,bimodal,nod,,no
+B2,ouais,affiliation,positive,generic,audible,,,no
+C1,head movement+wince,affiliation,negative,N/A,visible,head move+wince,,no
+C1,ouais,affiliation,positive,generic,audible,,,no
+C1,(nod),alignment,positive,N/A,visible,nod,,no
+C1,head move+raised eyebrows,affiliation,negative,N/A,visible,head move+eyes,,no
+C1,raised eyebrows+gasping face,affiliation,positive,N/A,visible,raised eyebrows,,no
+C1,raised eyebrows+ ah d'accord,alignment,positive,generic,bimodal,raised eyebrows,,no
+C1,(nod +gesture) + oui voilà,alignment,positive,generic,bimodal,gesture,,no
+C1,(nod),alignment,positive,N/A,visible,nod,,no
+C1,(nod) + voilà ouais,alignment,positive,generic,bimodal,nod,,no
+C1,(nod) + ouais c'est ouais Toinette,alignment,positive,mix,bimodal,nod,,no
+C1,(laughter),affiliation,positive,generic,audible,,,no
+C1,raised eyebrows+tu l'as vu en cm2?,alignment,negative,specific,bimodal,raised eyebrows,,no
+C1,pout+eyes,affiliation,negative,N/A,visible,pout+eyes,,no
+C1,raised eyebrows,affiliation,negative,N/A,visible,raised eyebrows,,no
+C1,raised eyebrows+ bah oui,affiliation,positive,generic,bimodal,raised eyebrows,,no
+C1,(nod),alignment,positive,N/A,visible,nod,,no
+C1,ouais + (nod),alignment,positive,generic,bimodal,nod,,no
+C1,nod+raised eyebrows,affiliation,positive,N/A,visible,head move+raised eyebrows,,no
+C1,nod,affiliation,positive,N/A,visible,nod,,no
+C1,ouais + (nod),alignment,positive,generic,bimodal,nod,,no
+C1,ouais + (nod),affiliation,positive,generic,bimodal,nod,,no
+C1,voilà,affiliation,positive,generic,audible,,,no
+C1,voilà+nod,affiliation,positive,generic,bimodal,nod,,no
+C1,(head move + gaze) + ouais,affiliation,positive,generic,bimodal,head move+eyes,,no
+C1,(nod),alignment,positive,N/A,visible,nod,,no
+C1,ouais + (nod),affiliation,positive,generic,bimodal,nod,,no
+C1,(laughter),affiliation,positive,generic,audible,,,no
+C1,ah,alignment,positive,generic,audible,,,no
+C1,raised eyebrows+gesture,affiliation,positive,N/A,visible,gesture+raised eyebrows,,no
+C1,(head shake + raised eybrows),affiliation,positive,N/A,visible,head move+raised eyebrows,,no
+C1,(head shake),affiliation,positive,N/A,visible,headshake,,no
+C1,ouais,alignment,positive,generic,audible,,,no
+C1,ah,alignment,positive,generic,audible,,,no
+C1,(nod),alignment,positive,N/A,visible,nod,,no
+C1,ouais + (nod),alignment,positive,generic,bimodal,nod,,no
+C1,avec les fourberies de Scapin? + (frown),alignment,negative,specific,bimodal,frown,,no
+C1,pout,affiliation,negative,N/A,visible,pout,,no
+C2,(nod) + d'accord,alignment,positive,generic,bimodal,nod,,no
+C2,frown,alignment,negative,N/A,visible,frown,,no
+C2,head tilt+ bah ouais,affiliation,positive,generic,bimodal,head tilt,,no
+C2,(nod),alignment,positive,N/A,visible,nod,,no
+C2,head move+raised eyebrows,alignment,positive,N/A,visible,head move+raised eyebrows,,no
+C2,d'accord + (nod),alignment,positive,generic,bimodal,nod,,no
+C2,oui + (nod) + mhm,affiliation,positive,generic,bimodal,nod,,no
+C2,(nod),alignment,positive,N/A,visible,nod,,no
+C2,(head move + eyes wide open) + d'accord,alignment,positive,generic,bimodal,head move+raised eyebrows,,no
+C2,ouais + (nod),alignment,positive,generic,bimodal,nod+smile,,no
+C2,ouais+nod,alignment,positive,generic,bimodal,nod,,no
+C2,head tilt+oui vachement plus oui oui oui,affiliation,positive,mix,bimodal,head tilt,,no
+C2,àToinette?,alignment,negative,specific,audible,,,no
+C2,tu trouves?+frown,affiliation,negative,specific,bimodal,frown,,no
+C2,ouais+frown,affiliation,positive,generic,bimodal,frown,,no
+C2,oui + (pout),alignment,negative,generic,bimodal,pout,,no
+C2, +< ah oui oui avec ce jeu là oui c'est vrai c'est vrai + (nod),alignment,positive,mix,bimodal,nod,,no
+C2,(head tilt) + oui,affiliation,negative,generic,bimodal,head tilt,,no
+C2,frown+ah?,alignment,negative,generic,bimodal,frown,,no
+C2,mhm + (nod),alignment,positive,generic,bimodal,nod,,no
+C2,head tilt+nod+ clairement,affiliation,positive,generic,bimodal,head tilt,,no
+C2,(nod),alignment,positive,N/A,visible,nod,,no
+C2,head tilt,affiliation,positive,N/A,visible,head tilt,,no
+C2,ouais moi aussi,affiliation,positive,mix,audible,,,no
+C2,oui,affiliation,positive,generic,audible,,,no
+C2,ah toi aussi?,alignment,positive,generic,audible,,,no
+C2,ah ouais + (eyebrow),affiliation,positive,generic,bimodal,raised eyebrows,,no
+D1,ouais,alignment,positive,generic,audible,,,no
+D1,bah + (averted gaze),affiliation,negative,generic,bimodal,gaze away,,no
+D1,ouais,alignment,positive,generic,audible,,,no
+D1,(laughter),affiliation,positive,generic,audible,,,no
+D1,à sa soirée oui,alignment,positive,mix,audible,,,no
+D1,nan nan nan,alignment,positive,generic,audible,,,no
+D1,(laughter + eyebrow) + nan nan nan + (laughter),affiliation,positive,generic,bimodal,raised eyebrows,,no
+D1,lequel?,alignment,negative,specific,audible,,,no
+D1,on veut du pain + (laughter) + gesture,affiliation,positive,specific,bimodal,gesture,,no
+D1,oui oui +(averted gaze),alignment,positive,generic,bimodal,gaze away,,no
+D1,un peu ça,affiliation,positive,specific,audible,,,no
+D1,(laughter),affiliation,positive,generic,audible,,,no
+D1,(nod) + mh,alignment,positive,generic,bimodal,nod,,no
+D1,(0.535) ah bah ça:a &euh ils ont un bon cast hein + (head move+raised eyebrows)),affiliation,positive,mix,bimodal,head move+raised eyebrows,,no
+D1,(smile),alignment,positive,N/A,visible,smile,,no
+D1,ouais àl'université? + gesture,alignment,negative,mix,bimodal,gesture,,no
+D1,(eyebrow),affiliation,positive,N/A,visible,raised eyebrows,,no
+D1,mais oui + (head move forward),affiliation,negative,generic,bimodal,head forward,,no
+D1,c'est qui les jumeaux? + (frown),alignment,negative,specific,bimodal,frown,,no
+D1,les frères Bogdanov + (eyebrow),alignment,negative,specific,bimodal,raised eyebrows,,no
+D1,au Marcella,affiliation,positive,specific,audible,,,no
+D1,(laughter),affiliation,positive,generic,audible,,,no
+D1,ouais si si + (nod+smile),alignment,positive,generic,bimodal,nod+smile,,no
+D1,ouais,affiliation,positive,generic,audible,,,no
+D1,ouais Louis Garrel + gesture,alignment,positive,mix,bimodal,gesture,,no
+D1,(nod+smile) + oui oui,alignment,positive,generic,bimodal,nod+smile,,no
+D1,(nod) + oui,alignment,positive,generic,bimodal,nod,,no
+D1,(smile),affiliation,positive,N/A,visible,smile,,no
+D1,ah ouais?,affiliation,positive,generic,audible,,,no
+D1,(laughter),affiliation,positive,generic,audible,,,no
+D1,ah bah ouais+raised eyebrows+gesture,alignment,positive,generic,bimodal,gesture+raised eyebrows,,no
+D1,ouais,alignment,positive,generic,audible,,,no
+D1,c'est dommage,affiliation,positive,specific,audible,,,no
+D1,ouais,alignment,positive,generic,audible,,,no
+D1,ah c'est ah il est dans la cette série-là? + (raised eyebrows+heave move),alignment,negative,specific,bimodal,head move+raised eyebrows,,no
+D1,c'est vrai?,alignment,positive,generic,audible,,,no
+D1,ah ouais,alignment,positive,generic,audible,,,no
+D1,parce-qu'il joue dedans aussi lui?,alignment,negative,specific,audible,,,no
+D1,mh,alignment,positive,generic,audible,,,no
+D1,qui ça? + (smile),alignment,negative,specific,bimodal,smile,,no
+D1,il a un frère?,alignment,negative,specific,audible,,,no
+D1,mais non,affiliation,positive,generic,audible,,,no
+D1,mais non + (raised eyebrow),affiliation,positive,generic,bimodal,raised eyebrows,,no
+D2,(head move forward) + attends de quoi trois euros la séance?,alignment,negative,mix,bimodal,head forward,,no
+D2,àquoi + (head move forward+ laughter),alignment,negative,specific,bimodal,head forward,,no
+D2,mais xxx,alignment,negative,generic,audible,,,no
+D2,ah + (nod),alignment,positive,generic,bimodal,nod,,no
+D2,ah ok + (nod),alignment,positive,generic,bimodal,nod,,no
+D2,ouais + (nod),alignment,positive,generic,bimodal,nod,,no
+D2,(laughter),affiliation,positive,generic,audible,,,no
+D2,(nod) + mhm,alignment,positive,generic,bimodal,nod,,no
+D2,(laughter),alignment,positive,generic,audible,,,no
+D2,ouais + (nod),alignment,positive,generic,bimodal,nod,,no
+D2,ah mais oui c'était toi mais ou:ui mais oui + (raised eyebrows+head move forwards),alignment,positive,mix,bimodal,head move+raised eyebrows,,no
+D2,oui bah oui j'imagine + (head tilt),alignment,positive,mix,bimodal,head tilt,,no
+D2,àsa soirée?,alignment,negative,specific,audible,,,no
+D2,ou dans le film?,alignment,negative,specific,audible,,,no
+D2,laughter,affiliation,positive,generic,audible,,,no
+D2,oui + (nod),alignment,positive,generic,bimodal,nod,,no
+D2,(nod),alignment,positive,N/A,visible,nod,,no
+D2,(laughter),affiliation,positive,generic,audible,,,no
+D2,(nod),alignment,positive,N/A,visible,nod,,no
+D2,le &tru [/] le petit truc là+ (gesture +laugher),affiliation,positive,specific,bimodal,gesture,,no
+D2,c'est vrai ? + (eyes wide open + laughter),affiliation,positive,generic,bimodal,eyes wide open,,no
+D2,(nod) + mh,alignment,positive,generic,bimodal,nod,,no
+D2,ouais,alignment,positive,generic,audible,,,no
+D2,ouais bah oui + (nod),affiliation,positive,generic,bimodal,nod,,no
+D2,ouais + (raised eyebrows),affiliation,positive,generic,bimodal,raised eyebrows,,no
+D2,la crème de la crème,affiliation,positive,specific,audible,,,no
+D2,(laughter),affiliation,positive,generic,audible,,,no
+D2,laughter,affiliation,positive,generic,audible,,,no
+D2,nan pas du tout + (head shake + gesture),affiliation,negative,generic,bimodal,gesture,,no
+D2,(averted gaze + palm-up + head move) + on le connaît lui ?,alignment,negative,specific,bimodal,gesture,,no
+D2,oui oui oui + (nod),alignment,positive,generic,bimodal,nod,,no
+D2,ah il était au Marcella? + (eyes wide open),alignment,negative,specific,bimodal,eyes wide open,,no
+D2,nan,affiliation,positive,generic,audible,,,no
+D2,nan j'étais pas là,alignment,positive,specific,audible,,,no
+D2,ouais voilà et eux ils étaient au Marcella + (nod + gesture),alignment,positive,mix,bimodal,gesture,,no
+D2,&=gasps mais quelle +/.,affiliation,negative,specific,audible,,,no
+D2,(head move forward) + c'est mais non?,affiliation,negative,generic,bimodal,head forward,,no
+D2,tout ça ouais + (laughter + nod),affiliation,positive,specific,bimodal,nod,,no
+D2,ouais il est dans [/] il est dans la série. + (nod),alignment,positive,mix,bimodal,nod,,no
+D2,Yvan Attal si + (nod),affiliation,positive,mix,bimodal,nod,,no
+D2,il est hyper bien + (head move+raised eyebrows),affiliation,negative,specific,bimodal,head move+raised eyebrows,,no
+D2,euh ouais + (gaze + nod),alignment,positive,generic,bimodal,nod,,no
+D2,ouais + (nod+smile),alignment,positive,generic,bimodal,nod+smile,,no
+E1,smile + ouais c'est nan c'est trop dur,affiliation,positive,mix,bimodal,smile,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,ouais,alignment,positive,generic,audible,,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,nod+smile,affiliation,positive,N/A,visible,nod+smile,,no
+E1,mm+nod,alignment,positive,generic,bimodal,nod,,no
+E1,nod,affiliation,positive,N/A,visible,nod,,no
+E1,ouais+raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+E1,ouais,alignment,positive,generic,audible,,,no
+E1,ouais+raised eybrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+E1,ouais voilà c'est ça,alignment,positive,generic,audible,,,no
+E1,ouais+gesture,alignment,positive,mix,bimodal,gesture,,no
+E1,ouais,alignment,positive,generic,audible,,,no
+E1,ouais ouais+nod+raised eyebrows,alignment,positive,generic,bimodal,head move+eyes,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,ah oui ,affiliation,positive,generic,bimodal,raised eyebrows,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,ouais,alignment,positive,generic,audible,,,no
+E1,nan mais ouais+raised eyebrows,affiliation,positive,generic,bimodal,raised eyebrows,,no
+E1,oui voilà c'est pas un truc + nod,affiliation,positive,mix,bimodal,nod,,no
+E1,mm mm + nod,alignment,positive,generic,bimodal,nod,,no
+E1,ouais+raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+E1,oui voilà oui voilà de ton copain+nod,alignment,positive,mix,bimodal,nod,,no
+E1,mm+nod,alignment,positive,generic,bimodal,nod,,no
+E1,smile+ah oui+nod,affiliation,positive,generic,bimodal,nod+smile,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,smile,alignment,positive,N/A,visible,smile,,no
+E1,nod+ok super,alignment,positive,mix,bimodal,nod+smile,,no
+E1,smile,affiliation,negative,N/A,visible,smile,,no
+E1,ah ok+laughter,affiliation,positive,generic,audible,,,no
+E1,laughter,affiliation,positive,generic,audible,,,no
+E1,ouais+nod,alignment,positive,generic,bimodal,nod,,no
+E1,ah oui j'en ai écrit d'autres+ raised eyebrows,alignment,positive,mix,bimodal,raised eyebrows,,no
+E1,ah oui oui,alignment,positive,generic,audible,,,no
+E1,ouais ouais ok + raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+E1,ouais+raised eyebrows,alignment,positive,generic,bimodal,nod,,no
+E1,ouais franchement c'est magnifique+smile,affiliation,positive,mix,bimodal,smile,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,mm mm +nod,alignment,positive,generic,bimodal,nod,,no
+E1,ah je vois mm + nod,alignment,positive,generic,bimodal,nod,,no
+E1,raised eyebrows,affiliation,positive,N/A,visible,raised eyebrows,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,nod+ mm mm,alignment,positive,generic,bimodal,nod,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,nan je connais pas,alignment,negative,mix,bimodal,frown,,no
+E1,ah ok mm+nod,alignment,positive,generic,bimodal,nod,,no
+E1,raised eyebrows+smile,affiliation,positive,N/A,visible,raised eyebrows,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E1,d'accord+nod,alignment,positive,generic,bimodal,nod,,no
+E1,ah ouais d'accord mm mm+nod,alignment,positive,generic,bimodal,nod,,no
+E1,nod,alignment,positive,N/A,visible,nod,,no
+E2,ouais ouais + raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+E2,laughter,affiliation,positive,generic,audible,,,no
+E2,si nan mais+smile,alignment,positive,generic,bimodal,smile,,no
+E2,mm,alignment,positive,generic,audible,,,no
+E2,smile,affiliation,positive,N/A,visible,smile,,no
+E2,ah ouais,alignment,positive,generic,audible,,,no
+E2,ouais,alignment,positive,generic,audible,,,no
+E2,ah oui+smile,alignment,positive,generic,bimodal,smile,,no
+E2,ah oui+smile,alignment,positive,generic,bimodal,smile,,no
+E2,mm+nod,alignment,positive,generic,bimodal,nod,,no
+E2, c'est plus de la culture que quelque-chose qui te servira,alignment,negative,specific,audible,,,no
+E2,ah oui,alignment,positive,generic,audible,,,no
+E2,ouais,alignment,positive,generic,audible,,,no
+E2,c'est un peu décévant par rapport àtes attentes,alignment,positive,specific,audible,,,no
+E2,ouais,alignment,positive,generic,audible,,,no
+E2,laughter,alignment,positive,generic,audible,,,no
+E2,ouais+raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+E2,ouais,alignment,positive,generic,audible,,,no
+E2,ouais+raised eyebrows,affiliation,positive,generic,bimodal,raised eyebrows,,no
+E2,le celui de Shakespeare?,alignment,negative,specific,audible,,,no
+E2,ah celui de mon copain+raised eyebrows,alignment,positive,mix,bimodal,raised eyebrows,,no
+E2, euh ouais+nod,alignment,positive,generic,bimodal,nod,,no
+E2,laughter,alignment,positive,generic,audible,,,no
+E2,ouais+nod,alignment,positive,generic,bimodal,nod,,no
+E2,smile,alignment,positive,N/A,visible,smile,,no
+F1,nod,alignment,positive,N/A,visible,nod,,no
+F1,ah ouais,alignment,positive,generic,audible,,,no
+F1,ouais bah oui,alignment,positive,generic,audible,,,no
+F1,oui+nod,alignment,positive,generic,bimodal,nod,,no
+F1,ouais+nod,alignment,positive,generic,bimodal,nod,,no
+F1,euh oui voilà c'est ça+nod,alignment,positive,mix,bimodal,nod,,no
+F1,ouais voilà+head movement,alignment,positive,generic,bimodal,head tilt,,no
+F1,head movement,affiliation,negative,N/A,visible,head tilt,,no
+F1,ouais,alignment,positive,generic,audible,,,no
+F1,ouais voilà+gesture+nod,alignment,positive,mix,bimodal,mix,,no
+F1,ah ouais+nod,alignment,negative,generic,bimodal,nod,,no
+F1,nod,alignment,positive,N/A,visible,nod,,no
+F1,nod,alignment,positive,N/A,visible,nod,,no
+F1,ah oui+nod,affiliation,positive,generic,bimodal,nod,,no
+F1,oui bah ouais du coup euh pour ça + head movement,affiliation,positive,generic,bimodal,head tilt,,no
+F1,ah oui+ head movement,alignment,positive,generic,bimodal,head tilt,,no
+F1,nod,alignment,positive,N/A,visible,nod,,no
+F1,nod,alignment,positive,N/A,visible,nod,,no
+F1,ouais+nod+raised eyebrows,alignment,positive,generic,bimodal,head move+raised eyebrows,,no
+F1,oui oui+raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+F1,ouais+nod,alignment,positive,generic,bimodal,nod,,no
+F1,ouais+smile,affiliation,positive,generic,bimodal,smile,,no
+F1,ouais+head movement,alignment,positive,generic,bimodal,head tilt,,no
+F1,nod,affiliation,positive,N/A,visible,nod,,no
+F1,ouais+head movement,affiliation,positive,generic,bimodal,head tilt,,no
+F1,nod,alignment,positive,N/A,visible,nod,,no
+F1,pout,alignment,negative,N/A,visible,pout,,no
+F1,ouais+nod,alignment,positive,generic,bimodal,nod,,no
+F1,ouais+smile,affiliation,positive,generic,bimodal,smile,,no
+F1,pout,alignment,negative,N/A,visible,pout,,no
+F1,smile,affiliation,positive,N/A,visible,smile,,no
+F1,nod,alignment,positive,N/A,visible,nod,,no
+F1,nod,alignment,positive,N/A,visible,nod,,no
+F1,ah oui mh+nod,alignment,positive,generic,bimodal,nod,,no
+F1,nod,alignment,positive,N/A,visible,nod,,no
+F1,d'accord+nod,alignment,positive,generic,bimodal,nod,,no
+F1,nod,alignment,positive,N/A,visible,nod,,no
+F1,nod,alignment,positive,N/A,visible,nod,,no
+F1,mm+head movement,affiliation,positive,generic,bimodal,head tilt,,no
+F2,ouais voilà+raised eyebrows,affiliation,positive,generic,bimodal,raised eyebrows,,no
+F2,ouais c'est ça+smile,affiliation,positive,mix,bimodal,smile,,no
+F2,bah ouais,affiliation,positive,generic,audible,,,no
+F2,nod,alignment,positive,N/A,visible,nod,,no
+F2,bah ouais,affiliation,positive,generic,audible,,,no
+F2,ah oui,alignment,positive,generic,audible,,,no
+F2,ah mais c'est la série française avec euh+raised eyebrows,alignment,negative,mix,bimodal,raised eyebrows,,no
+F2,nod,alignment,positive,N/A,visible,nod,,no
+F2,ouais+smile+nod,alignment,positive,generic,bimodal,nod+smile,,no
+F2,nod+smile,affiliation,positive,N/A,visible,nod+smile,,no
+F2,mm,alignment,positive,generic,audible,,,no
+F2,oui,alignment,positive,generic,audible,,,no
+F2,smile+raised eyebrows,alignment,positive,N/A,visible,raised eyebrows+smile,,no
+F2,ah oui c'est vrai+frown,alignment,positive,generic,bimodal,frown,,no
+F2,ah ouais,alignment,positive,generic,audible,,,no
+F2,smile,alignment,positive,N/A,visible,smile,,no
+F2,ah oui d'accord,alignment,positive,generic,audible,,,no
+F2,euh+gaze away,alignment,negative,generic,bimodal,gaze away,,no
+F2,ah oui oui c'est vrai+raised eyebrows,alignment,positive,mix,bimodal,raised eyebrows,,no
+F2,ouais ok+nod,alignment,positive,generic,bimodal,nod,,no
+F2,mm+head movement+raised eyebrows,affiliation,positive,generic,bimodal,head move+raised eyebrows,,no
+F2,ok,alignment,positive,generic,audible,,,no
+F2,raised eyebrows,alignment,positive,N/A,visible,raised eyebrows+smile,,no
+F2,ah bon ah ouais + raised eyebrows,affiliation,negative,generic,bimodal,nod+smile,,no
+F2,ok+head movement,alignment,positive,generic,bimodal,head forward,,no
+F2,c'est trop cool+raised eyebrows,affiliation,positive,specific,bimodal,raised eyebrows+smile,,no
+F2,ouais+nod,alignment,positive,generic,bimodal,nod,,no
+F2,ouais+laughter,affiliation,positive,generic,audible,,,no
+F2,en replay+head movement,alignment,negative,specific,bimodal,head forward,,no
+F2,ah ok d'accord+nod,alignment,positive,generic,bimodal,nod,,no
+F2,mm+nod,alignment,positive,generic,bimodal,nod,,no
+F2,mm mm,alignment,positive,generic,audible,,,no
+F2,ouais,alignment,positive,generic,audible,,,no
+F2,ah oui+smile,alignment,positive,generic,bimodal,smile,,no
+F2,mm+raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+F2,bah oui+raised eyebrows,affiliation,positive,generic,bimodal,raised eyebrows,,no
+F2,bah ouais+raised eyebrows+smile,affiliation,positive,generic,bimodal,raised eyebrows+smile,,no
+F2,ouais ça c'est sûr +laughter,affiliation,positive,mix,bimodal,raised eyebrows,,no
+F2,mm oui je suis d'accord+raised eyebrows,affiliation,positive,mix,bimodal,raised eyebrows,,no
+F2,mm,alignment,positive,generic,audible,,,no
+F2,ouais+nod,alignment,positive,generic,bimodal,nod,,no
+F2,ah oui,alignment,positive,generic,audible,,,no
+F2,nod,alignment,positive,N/A,visible,nod,,no
+F2,ouais,alignment,positive,generic,audible,,,no
+F2,ouais+raised eyebrows,alignment,positive,generic,bimodal,raised eyebrows,,no
+F2,oui bah oui,affiliation,positive,generic,audible,,,no
+F2,mm,alignment,positive,generic,audible,,,no
+F2,déjà dépassée + smile,affiliation,positive,mix,bimodal,smile,,no
+F2,ouais+nod,alignment,positive,generic,bimodal,nod,,no
+F2,bah oui exactement+raised eyebrows,affiliation,positive,mix,bimodal,raised eyebrows,,no
+F2,ah ok+smile,alignment,positive,generic,bimodal,smile,,no
+F2,ah ouais+nod,alignment,positive,generic,bimodal,nod,,no
+F2,mm mm,alignment,positive,generic,audible,,,no

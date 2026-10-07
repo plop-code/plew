@@ -1,0 +1,25 @@
+﻿ID,Variety,Age,Gender,Audio
+1,American,Young adult,F,https://www.lfsag.unito.it/ark/tramontane/trm_english_michigan_f_davison.mp3
+2,American,Young adult,F,https://www.lfsag.unito.it/ark/tramontane/trm_english_texas_f_houston.mp3
+3,American,Young adult,M,27b/ALL_050_M_ENG_ENG_NWS.wav
+4,Australian,Adult,M,https://www.lfsag.unito.it/ark/tramontane/trm_english_australia_m_melbourne.mp3
+5,Australian,Young adult,M,https://www.lfsag.unito.it/ark/tramontane/trm_english_australia_m_sydney.mp3
+6,Australian,Young adult,F,https://www.lfsag.unito.it/ark/tramontane/trm_english_australia_f1_sydney.mp3
+7,Southern British,Adult,M,https://www.lfsag.unito.it/ark/tramontane/trm_english_england_m_colchester.mp3
+8,Southern British,Young adult,M,https://www.lfsag.unito.it/ark/tramontane/trm_english_england_m1_london.mp3
+9,Southern British,Young adult,M,https://www.lfsag.unito.it/ark/tramontane/trm_english_england_m2_london.mp3
+10,Indian,Adult,F,https://www.lfsag.unito.it/ark/tramontane/trm_english_india_f_kolkata.mp3
+11,Indian,Young adult,F,https://www.lfsag.unito.it/ark/tramontane/trm_english_punjab_f_amritsar.mp3
+12,Indian,Young adult,F,https://www.lfsag.unito.it/ark/tramontane/trm_english_doaba_f_nawanshahr.mp3
+13,South African,Young adult,F,https://www.lfsag.unito.it/ark/tramontane/trm_english_south_africa_f_cape_town.mp3
+14,South African,Young adult,M,https://www.lfsag.unito.it/ark/tramontane/trm_english_south_africa_m_cape_town.mp3
+15,Hong Kong,Young adult,F,27b/ALL_086_F_CCT_ENG_NWS.wav
+16,Hong Kong,Young adult,M,27b/ALL_087_M_CCT_ENG_NWS.wav
+17,Hong Kong,Young adult,M,27b/ALL_088_M_CCT_ENG_NWS.wav
+18,Japanese,Adult,M,27b/ALL_013_M_JPN_ENG_NWS.wav
+19,Japanese,Adult,F,27b/ALL_026_F_JPN_ENG_NWS.wav
+20,French,Young adult,F,27b/ALL_044_F_FRA_ENG_NWS.wav
+21,German,Young adult,F,27b/ALL_001_F_GER_ENG_NWS.wav
+22,German,Adult,M,27b/ALL_098_M_GER_ENG_NWS.wav
+23,Spanish,Young adult,M,27b/ALL_036_M_SPA_ENG_NWS.wav
+24,Spanish,Young adult,F,27b/ALL_129_F_SPA_ENG_NWS.wav

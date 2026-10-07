@@ -1,0 +1,82 @@
+{
+  "version": 2,
+  "kind": "plew-visualization-config",
+  "exportedAt": "2026-09-24T04:56:36.555Z",
+  "dataset": {
+    "id": "22.csv",
+    "label": "22.csv"
+  },
+  "dimensions": {
+    "order": [
+      "place",
+      "manner",
+      "pair",
+      "force",
+      "position"
+    ],
+    "enabled": [
+      "pair",
+      "manner",
+      "place",
+      "position",
+      "force"
+    ],
+    "encodings": {
+      "place": "grid-x",
+      "manner": "grid-y",
+      "pair": "color",
+      "force": "panel-x",
+      "position": "panel-y"
+    }
+  },
+  "valueFilters": {},
+  "styling": {
+    "customColors": {},
+    "customShapes": {}
+  },
+  "display": {
+    "showItemCounts": false,
+    "showDimensionNames": true,
+    "clusterPoints": true,
+    "uniformGridSizes": false,
+    "outerPanelRowHeight": "200",
+    "unifyInnerPanel": false,
+    "innerPanelRowHeight": "56",
+    "labelSize": "0.7",
+    "labelColor": "#888888",
+    "countSize": "0.6",
+    "countColor": "#555555"
+  },
+  "dummySettings": {
+    "visible": false,
+    "color": "#555555",
+    "opacity": 0,
+    "shape": "diamond"
+  },
+  "columns": {
+    "visibility": {
+      "ID": true,
+      "place": true,
+      "manner": true,
+      "force": true,
+      "pair": true,
+      "position": true,
+      "audio": true,
+      "desc::symbol": true,
+      "desc::example": true,
+      "desc::translation": true
+    },
+    "recordOrder": [
+      "desc::example",
+      "desc::symbol",
+      "desc::translation",
+      "audio",
+      "force",
+      "ID",
+      "manner",
+      "pair",
+      "place",
+      "position"
+    ]
+  }
+}

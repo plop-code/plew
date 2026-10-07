@@ -1,0 +1,19 @@
+﻿ID,desc::symbol,height,frontness,roundedness,video_url
+01,i,1 - close,1 - front,1 - unrounded,25/CV-001.mp4
+02,e,2 - close-mid,1 - front,1 - unrounded,25/CV-002.mp4
+03,ɛ,3 - open-mid,1 - front,1 - unrounded,25/CV-003.mp4
+04,a,4 - open,1 - front,1 - unrounded,25/CV-004.mp4
+05,ɑ,4 - open,3 - back,1 - unrounded,25/CV-005.mp4
+06,ɔ,3 - open-mid,3 - back,2 - rounded,25/CV-006.mp4
+07,o,2 - close-mid,3 - back,2 - rounded,25/CV-007.mp4
+08,u,1 - close,3 - back,2 - rounded,25/CV-008.mp4
+09,y,1 - close,1 - front,2 - rounded,25/CV-009.mp4
+10,ø,2 - close-mid,1 - front,2 - rounded,25/CV-010.mp4
+11,œ,3 - open-mid,1 - front,2 - rounded,25/CV-011.mp4
+12,ɶ,4 - open,1 - front,2 - rounded,25/CV-012.mp4
+13,ɒ,4 - open,3 - back,2 - rounded,25/CV-013.mp4
+14,ʌ,3 - open-mid,3 - back,1 - unrounded,25/CV-014.mp4
+15,ɤ,2 - close-mid,3 - back,1 - unrounded,25/CV-015.mp4
+16,ɯ,1 - close,3 - back,1 - unrounded,25/CV-016.mp4
+17,ɨ,1 - close,2 - central,1 - unrounded,25/CV-017.mp4
+18,ʉ,1 - close,2 - central,2 - rounded,25/CV-018.mp4

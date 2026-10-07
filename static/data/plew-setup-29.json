@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "kind": "plew-visualization-config",
+  "exportedAt": "2026-09-29T09:36:20.954Z",
+  "dataset": {
+    "id": "29.csv",
+    "label": "29.csv"
+  },
+  "dimensions": {
+    "order": [
+      "Speaker",
+      "Form",
+      "Modality",
+      "Type",
+      "Value",
+      "recorded"
+    ],
+    "enabled": [
+      "Form",
+      "Modality",
+      "Type",
+      "Value",
+      "recorded"
+    ],
+    "encodings": {
+      "Speaker": "",
+      "Form": "grid-x",
+      "Modality": "grid-y",
+      "Type": "panel-x",
+      "Value": "color",
+      "recorded": "shape"
+    }
+  },
+  "valueFilters": {
+    "Form": [
+      "generic",
+      "mix",
+      "specific"
+    ]
+  },
+  "styling": {
+    "customColors": {
+      "positive": "#1ad11d",
+      "negative": "#e42121"
+    },
+    "customShapes": {
+      "yes": "triangle"
+    }
+  },
+  "display": {
+    "showItemCounts": false,
+    "showDimensionNames": true,
+    "clusterPoints": true,
+    "uniformGridSizes": true,
+    "outerPanelRowHeight": "190",
+    "unifyInnerPanel": true,
+    "innerPanelRowHeight": "130",
+    "labelSize": "0.7",
+    "labelColor": "#888888",
+    "countSize": "0.6",
+    "countColor": "#555555"
+  },
+  "dummySettings": {
+    "visible": false,
+    "color": "#555555",
+    "opacity": 0,
+    "shape": "diamond"
+  },
+  "columns": {
+    "visibility": {
+      "Speaker": true,
+      "desc::Feedback": true,
+      "Type": true,
+      "Value": true,
+      "Form": true,
+      "Modality": true,
+      "desc::Visual features": true,
+      "video_url": true,
+      "recorded": true
+    },
+    "recordOrder": [
+      "desc::Feedback",
+      "desc::Visual features",
+      "Form",
+      "Modality",
+      "recorded",
+      "Speaker",
+      "Type",
+      "Value",
+      "video_url"
+    ]
+  }
+}

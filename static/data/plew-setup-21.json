@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "kind": "plew-visualization-config",
+  "exportedAt": "2026-09-22T00:22:51.211Z",
+  "dataset": {
+    "id": "21.csv",
+    "label": "21.csv"
+  },
+  "dimensions": {
+    "order": [
+      "condition",
+      "language",
+      "participant",
+      "TOEIC",
+      "score",
+      "type",
+      "PercepTest"
+    ],
+    "enabled": [
+      "score",
+      "condition",
+      "language",
+      "type"
+    ],
+    "encodings": {
+      "condition": "grid-x",
+      "language": "grid-y",
+      "TOEIC": "",
+      "score": "color",
+      "type": "shape",
+      "PercepTest": ""
+    }
+  },
+  "valueFilters": {
+    "score": [
+      "0",
+      "25",
+      "34",
+      "50",
+      "67",
+      "75",
+      "99",
+      "na"
+    ],
+    "type": [
+      "sentence"
+    ]
+  },
+  "styling": {
+    "customColors": {
+      "0": "#0d0d0d",
+      "25": "#403f3f",
+      "34": "#71716f",
+      "50": "#7c7e7c",
+      "67": "#9b9b9d",
+      "75": "#a9a7aa",
+      "99": "#e3e0de"
+    },
+    "customShapes": {
+      "VCV": "circle"
+    }
+  },
+  "display": {
+    "showItemCounts": false,
+    "showDimensionNames": false,
+    "clusterPoints": true,
+    "uniformGridSizes": false,
+    "outerPanelRowHeight": "200",
+    "unifyInnerPanel": false,
+    "innerPanelRowHeight": "56",
+    "labelSize": "0.7",
+    "labelColor": "#888888",
+    "countSize": "0.6",
+    "countColor": "#555555"
+  },
+  "dummySettings": {
+    "visible": false,
+    "color": "#555555",
+    "opacity": 0,
+    "shape": "diamond"
+  },
+  "columns": {
+    "visibility": {
+      "participant": true,
+      "TOEIC": true,
+      "language": true,
+      "type": true,
+      "desc::source": true,
+      "desc::ListNumber": true,
+      "desc::SentenceNumber": true,
+      "desc::sentence": true,
+      "desc::NumberOfContentWords": true,
+      "desc::noise": true,
+      "condition": true,
+      "audio_url": true,
+      "score": true,
+      "PercepTest": true
+    },
+    "recordOrder": [
+      "desc::ListNumber",
+      "desc::noise",
+      "desc::NumberOfContentWords",
+      "desc::sentence",
+      "desc::SentenceNumber",
+      "desc::source",
+      "audio_url",
+      "condition",
+      "language",
+      "participant",
+      "PercepTest",
+      "score",
+      "TOEIC",
+      "type"
+    ]
+  }
+}

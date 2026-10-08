@@ -1,15 +1,16 @@
 {
   "version": 2,
   "kind": "plew-visualization-config",
-  "exportedAt": "2026-10-05T21:15:52.915Z",
+  "exportedAt": "2026-10-08T16:58:32.592Z",
   "dataset": {
-    "id": "evidential_sources_final.csv",
-    "label": "evidential_sources_final.csv"
+    "id": "11.csv",
+    "label": "11.csv"
   },
   "dimensions": {
     "order": [
       "section_name",
-      "source"
+      "source",
+      "have_evidential_data"
     ],
     "enabled": [
       "section_name",
@@ -56,7 +57,9 @@
       "desc::keywords": true,
       "dim::section_name": true,
       "dim::source": true,
-      "desc::link": true
+      "desc::link": true,
+      "dim::have_evidential_data": true,
+      "desc::paper_url": true
     },
     "recordOrder": [
       "dim::section_name",
@@ -65,7 +68,9 @@
       "desc::keywords",
       "desc::link",
       "desc::paper_id",
-      "desc::title"
+      "desc::title",
+      "dim::have_evidential_data",
+      "desc::paper_url"
     ]
   }
 }
